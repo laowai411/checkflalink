@@ -1,0 +1,137 @@
+<xml>
+	<link id="btnLmRecharge">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActiveBarBg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="GiftValueMC">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="GiftNameMC">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="WelfareStar">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="DesImg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ImgYuanBao">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="Img388">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="FBItemBg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="GetWelfare_titlebg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="VIP_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="Login_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="LoginGiftBg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ImgGiftButtom">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="GifAcceptBoxBg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="DuplicateReward_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="FBRewardTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="DuplicateDes_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="FBdesTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="FB_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActiveReward_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActivityRewardTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActiveDes_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActivityDesTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ImgValue">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="OL_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="MediaGiftTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActiveText">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActiveBar">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="ActiveBar2">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="Mall_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="TaskReward_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="TaskDes_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="MobileGiftTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="RechargeGiftTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="DesBg">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="view.welfare.finicon">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="FBdropTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="NewGiftTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="OldPlayerGiftTitle">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="view.welfareViews.AlreadyKilledIcon">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="view.welfare.get">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="noFBexp">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="BattlefieldReward_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+	<link id="BattlefieldDes_Title">
+		<srcFla>F:\xymmo\assets_src\ui\welfare.fla</srcFla>
+	</link>
+</xml>

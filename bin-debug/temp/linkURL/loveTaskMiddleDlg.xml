@@ -1,0 +1,20 @@
+<xml>
+	<link id="view.lovetaskviews.lovetaskevaluationviewasset">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskMiddleDlg.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.lovetaskdateviewasset">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskMiddleDlg.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.givegiftviewasset">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskMiddleDlg.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.radiobutton_upskin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskMiddleDlg.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.radiobutton_overskin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskMiddleDlg.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.radiobutton_selectedskin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskMiddleDlg.fla</srcFla>
+	</link>
+</xml>

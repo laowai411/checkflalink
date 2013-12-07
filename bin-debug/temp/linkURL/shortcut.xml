@@ -1,0 +1,71 @@
+<xml>
+	<link id="view.ShortcutViews.BagTipMc">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.ButtonPanel">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="ShortcutSelectFrame">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.shortcutView.blueExpBar">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.FlashFrame">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.WarSkillBg">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_0">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_1">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_2">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_3">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_4">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_5">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_6">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_7">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_8">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_9">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.GuildButton_gray">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.changeSkillBtn">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.specialSkillFrame">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.shortcutView.skillBg">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.TreasureButton_gray">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="shortcut.ZhanDouLi">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+	<link id="view.ShortcutViews.HorseButton_gray">
+		<srcFla>F:\xymmo\assets_src\ui\shortcut.fla</srcFla>
+	</link>
+</xml>

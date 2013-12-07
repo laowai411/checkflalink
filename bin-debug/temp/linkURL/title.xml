@@ -1,0 +1,50 @@
+<xml>
+	<link id="view.skin.title.TitleBg">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.propBg">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_0">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_1">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_2">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_3">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_4">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_5">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_6">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_7">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_8">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.Number_9">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="titleProperty">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.totalProp">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.noTitle">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+	<link id="title.ZhanDouLi">
+		<srcFla>F:\xymmo\assets_src\ui\title.fla</srcFla>
+	</link>
+</xml>

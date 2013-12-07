@@ -1,0 +1,116 @@
+<xml>
+	<link id="view.marryViews.closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.tipBg">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.testBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.testOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.testGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.processBg">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.registerBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.registerOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.registerGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.noProposeTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.abandonTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.paradeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.paradeOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.paradeGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.titleTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.arrow">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.refuseTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.tipBtnOver">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.applyBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.applyTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.applyOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.applyGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.successBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.successOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.successGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.confirmTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.tipBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.tipBtnDisable">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.agreeTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.conductBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.conductOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.conductGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.orderBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.orderOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.orderGrayBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.orderTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+	<link id="view.marryViews.paradeTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marry.fla</srcFla>
+	</link>
+</xml>

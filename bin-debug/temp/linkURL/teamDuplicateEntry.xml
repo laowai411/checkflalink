@@ -1,0 +1,20 @@
+<xml>
+	<link id="TeamDuplicateEntryItem">
+		<srcFla>F:\xymmo\assets_src\ui\teamDuplicateEntry.fla</srcFla>
+	</link>
+	<link id="view.teamViews.ButtonUpTxt">
+		<srcFla>F:\xymmo\assets_src\ui\teamDuplicateEntry.fla</srcFla>
+	</link>
+	<link id="view.teamViews.ButtonOverTxt">
+		<srcFla>F:\xymmo\assets_src\ui\teamDuplicateEntry.fla</srcFla>
+	</link>
+	<link id="TeamDuplicateEntryConditionTitle">
+		<srcFla>F:\xymmo\assets_src\ui\teamDuplicateEntry.fla</srcFla>
+	</link>
+	<link id="TeamDuplicateEntryFlagBg">
+		<srcFla>F:\xymmo\assets_src\ui\teamDuplicateEntry.fla</srcFla>
+	</link>
+	<link id="TeamDuplicateEntryAwardTitle">
+		<srcFla>F:\xymmo\assets_src\ui\teamDuplicateEntry.fla</srcFla>
+	</link>
+</xml>

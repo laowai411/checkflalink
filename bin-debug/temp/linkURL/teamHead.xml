@@ -1,0 +1,23 @@
+<xml>
+	<link id="careerMc">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+	<link id="SmallBanner">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+	<link id="TeamMC">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+	<link id="teamHead.closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+	<link id="teamHead.effect">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+	<link id="teamHead.teamIcon">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+	<link id="teamHead.talk">
+		<srcFla>F:\xymmo\assets_src\ui\teamHead.fla</srcFla>
+	</link>
+</xml>

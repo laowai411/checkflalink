@@ -1,0 +1,35 @@
+<xml>
+	<link id="Rank_figure_Equip">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.Figure_Icon_List">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.giftBox">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.petSkillTitle">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="petRankBg">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.figureBg">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.frame">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.worldLevel">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.fightBg">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.horseBg">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+	<link id="rank.horseFrame">
+		<srcFla>F:\xymmo\assets_src\ui\rank.fla</srcFla>
+	</link>
+</xml>

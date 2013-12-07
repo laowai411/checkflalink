@@ -1,0 +1,11 @@
+<xml>
+	<link id="pet.view.petpanel">
+		<srcFla>F:\xymmo\assets_src\ui\petMainUIPanel.fla</srcFla>
+	</link>
+	<link id="round">
+		<srcFla>F:\xymmo\assets_src\ui\petMainUIPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.effectPoint">
+		<srcFla>F:\xymmo\assets_src\ui\petMainUIPanel.fla</srcFla>
+	</link>
+</xml>

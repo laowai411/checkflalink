@@ -1,0 +1,14 @@
+<xml>
+	<link id="task.GetTitleImage">
+		<srcFla>F:\xymmo\assets_src\ui\task.fla</srcFla>
+	</link>
+	<link id="task.AwardTitleImage">
+		<srcFla>F:\xymmo\assets_src\ui\task.fla</srcFla>
+	</link>
+	<link id="task.DesTitleImage">
+		<srcFla>F:\xymmo\assets_src\ui\task.fla</srcFla>
+	</link>
+	<link id="task.FinishTitleImage">
+		<srcFla>F:\xymmo\assets_src\ui\task.fla</srcFla>
+	</link>
+</xml>

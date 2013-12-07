@@ -1,0 +1,32 @@
+<xml>
+	<link id="view.warViews.normalSeaViews.EnterBtnSkin">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.EnterOverBtnSkin">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.EnterTitle">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.EnterPanelBg">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.WarReportTitle">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.WarReportBg">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.WarReport">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.EnterBtn">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.EnterOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+	<link id="view.warViews.normalSeaViews.WarReportRewardTitle">
+		<srcFla>F:\xymmo\assets_src\ui\normalSea.fla</srcFla>
+	</link>
+</xml>

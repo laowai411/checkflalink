@@ -1,0 +1,29 @@
+<xml>
+	<link id="horoscopeTask.luck_1">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.luck_2">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.luck_3">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.luck_4">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.luck_5">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.MemberTitelImage">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.TodayTitelImage">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.RewardTitelImage">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+	<link id="horoscopeTask.ThanksImage">
+		<srcFla>F:\xymmo\assets_src\ui\horoscopeTask.fla</srcFla>
+	</link>
+</xml>

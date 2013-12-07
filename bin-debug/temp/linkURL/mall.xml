@@ -1,0 +1,29 @@
+<xml>
+	<link id="MallCloseBtn">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="MallChargeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="MallGoodsItemTtitleBg">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="mall.MallBg">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="mall.integrationTitle">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="mall.IntegrationBg">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="MallHotSaleTitle">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="mall.XianShiQiangGou">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+	<link id="MallPreviewTitle">
+		<srcFla>F:\xymmo\assets_src\ui\mall.fla</srcFla>
+	</link>
+</xml>

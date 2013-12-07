@@ -1,0 +1,20 @@
+<xml>
+	<link id="otherFashion.gridList">
+		<srcFla>F:\xymmo\assets_src\ui\otherFashion.fla</srcFla>
+	</link>
+	<link id="fashionRefine_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\otherFashion.fla</srcFla>
+	</link>
+	<link id="fashionDress_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\otherFashion.fla</srcFla>
+	</link>
+	<link id="otherFashion.fightBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherFashion.fla</srcFla>
+	</link>
+	<link id="view.skin.fashion.NewSign">
+		<srcFla>F:\xymmo\assets_src\ui\otherFashion.fla</srcFla>
+	</link>
+	<link id="otherFashion.WatchTitleBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherFashion.fla</srcFla>
+	</link>
+</xml>

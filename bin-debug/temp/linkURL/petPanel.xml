@@ -1,0 +1,68 @@
+<xml>
+	<link id="pet.view.storeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.list.bkgframe">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.info.changename">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.info.feed">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.list.petimg">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.info.beauty">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.grow.ExpBar">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="upSkillEffect">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="view.skillViews.soul.SoulRandomGirdMask">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.numSmallBg">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.skillItemBg">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.grow">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.grow.SkillLvlBg">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.varyText">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.potential">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.skillTipsTitle">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.varay.noActiveIcon">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.varay.useIcon">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="view.skillViews.soul.BlackLine">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.fightValueBg">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.fightBg">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+	<link id="pet.view.info.quality">
+		<srcFla>F:\xymmo\assets_src\ui\petPanel.fla</srcFla>
+	</link>
+</xml>

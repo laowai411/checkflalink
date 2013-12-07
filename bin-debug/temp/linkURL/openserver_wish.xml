@@ -1,0 +1,53 @@
+<xml>
+	<link id="wish.btn_states">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.itembg">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.btnEdge9grid">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.helpIcon">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.txt3">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.icon3">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.notOpenTxt">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.txt1">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.icon1">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.7day">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.3day">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.txt4">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.icon4">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.picEdge9grid">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.select9grid">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.txt2">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+	<link id="wish.icon2">
+		<srcFla>F:\xymmo\assets_src\ui\openserver_wish.fla</srcFla>
+	</link>
+</xml>

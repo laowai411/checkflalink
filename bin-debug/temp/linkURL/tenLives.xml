@@ -1,0 +1,47 @@
+<xml>
+	<link id="view.warViews.fight3v3Views.ReportBg">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.fight3v3Views.WinLoseWordMc">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EnterBtnSkin">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EnterOverBtnSkin">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EnterTitle">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EnterBg">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.fight3v3Views.expLab">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.fight3v3Views.honorLab">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.fight3v3Views.RankTitle">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EnterBtn">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EnterOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.fight3v3Views.WinIcon">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.WinLogo">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.tenLivesViews.EscapeLogo">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+	<link id="view.warViews.fight3v3Views.MarsLab">
+		<srcFla>F:\xymmo\assets_src\ui\tenLives.fla</srcFla>
+	</link>
+</xml>

@@ -1,0 +1,698 @@
+<xml>
+	<link id="TempersGoodsDel">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HideTaskButton">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FriendIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="MaskIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GMIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Color">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnSend">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="DisplaySystemHistory">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FaceIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HideSystemHistory">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ColorIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FaceIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerExit">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnAffinityGiveUp2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnAffinityGiveUp3">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnChatHand">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnBigFace">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnHeroRefresh">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CustomBtnHF">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ChatQuake">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamFBIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CountMaxIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="onLineGift">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="shineText">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GoodBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="chatBG1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ImageBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a200">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a201">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a202">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a203">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a204">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a205">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a206">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a207">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a208">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a209">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a210">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a211">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a212">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a213">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a214">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a215">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a216">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GoldIngot1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GoldIngot">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TargetOK">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SmallBanner">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="NumberBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TransactionBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Drag">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskFollow">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskDescription">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskState_downIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskState_upIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="DownArrowDisabledSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="DownArrowDownSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="DownArrowOverSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="DownArrowUpSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="UpArrowDisabledSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="UpArrowDownSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="UpArrowOverSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="UpArrowUpSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TextInput_upSkinBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CDTime">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="InputBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="State">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ChatShade">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Face">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Blank">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="PersonChatIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="PersonBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="PersonInputBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Separated">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SDisableSkin4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SOverSkin4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SUpSkin4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SDownSkin4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SelectedSkin4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FastBuyBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BuildDescription">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BuildGoodScrollBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BuildGoodBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GoodInfoBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ItemLine">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CommissioneTitle">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamMC">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamChatIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnLeaveTeam">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamChatIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="DuplicateBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamDuplicateBackground2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerTimeTitleBackground2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FirstSelected">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnMining">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FaceDan">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CustomReplyBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BtnMining0">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TiShenLing">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskStretch1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskStretch2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ShieldPaoPao">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ChatQuakeShield">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ShenSuo">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="a217">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="State1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamItem">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamPlayerItem">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BindGoldIngot">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamRecView">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CreateTeamView">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamSetingView">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamStatusItemBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FileIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FolderClosedIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FolderOpenIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeBgSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_closedBranchIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_disabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_downSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_leafIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_openBranchIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedDisabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedDownSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedOverSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedUpSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FileIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FolderClosedIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FolderOpenIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeBgSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_closedBranchIcon1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_disabledSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_downSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_leafIcon1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_openBranchIcon1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_overSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedDisabledSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedDownSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedOverSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedUpSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_upSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FileIcon1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FolderClosedIcon1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FolderOpenIcon1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeBgSkin1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_closedBranchIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_disabledSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_downSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_leafIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_openBranchIcon2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_overSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedDisabledSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedDownSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedOverSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_selectedUpSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TreeCellRenderer_upSkin2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GoldImg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CustomReplyDataFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ActivityFaceSelected">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="AffinityAnswerImage">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamBackground2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamBackground1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerDownArrow">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SystemHistoryBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskBg3">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="PersonalityActionBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="PromptlyCompleteBG">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="CustomReplyItem">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="PersonChatImage">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="AddFriendTitle">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerUpArrow">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskJian">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskDesc">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskJia">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TargetBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ChatFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskFortune">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Tatget_goods_bg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTodayTask">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GangMembersFortuneBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="GangMembersFortuneFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TargetBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerTimeTitleBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ActionGrid3">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ActionGrid2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ActionGrid1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="NearImageTitle">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="NearBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamRendererUI">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerTimeBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamBanner">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamZhaomuTitle">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamZhaomu">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="BuildBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TempersGoodsBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ChatErase">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerLayerBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TargetReceiveFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskBg5">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskBg4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamFrom">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskAward">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamZhaoMuBackground2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamZhaoMuBackground1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TeamZui">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Xing4">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Xing2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Xing3">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Xing5">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="Xing1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ThankBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="SelfnameBG">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="FurnaceSamllGoodsBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskIconS2">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TaskIconS1">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskGoodsBg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="ActivityFaceBackground">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="AutoTeamFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="EquiStamp">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskTitle">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="HeroTaskFont">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TowerTitleSelected">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="TongImg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+	<link id="MallBingGoldImg">
+		<srcFla>F:\xymmo\assets_src\ui\skins.fla</srcFla>
+	</link>
+</xml>

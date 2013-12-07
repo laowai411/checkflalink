@@ -1,0 +1,44 @@
+<xml>
+	<link id="view.lovetaskviews.modelitemasset">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.inviteviewasset">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.smallSquareBtn_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.smallSquareBtn_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.smallSquareBtn_disabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.refreshBtn_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.refreshBtn_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.refreshBtn_disableSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.matchBtn_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.matchBtn_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.matchBtn_disabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.inviteBtn_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.inviteBtn_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+	<link id="view.lovetaskviews.inviteBtn_disabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\loveTaskInvite.fla</srcFla>
+	</link>
+</xml>

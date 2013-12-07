@@ -1,0 +1,32 @@
+<xml>
+	<link id="taskFollow.Bg">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.TitleBg">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.CanReceiveBtn">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.AllBtn">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.Panel">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.HadReceive">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.ShrinkImage">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.CloseIcon">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.StretchImage">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+	<link id="taskFollow.OpenIcon">
+		<srcFla>F:\xymmo\assets_src\ui\taskFollow.fla</srcFla>
+	</link>
+</xml>

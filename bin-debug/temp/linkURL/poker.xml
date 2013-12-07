@@ -1,0 +1,71 @@
+<xml>
+	<link id="view.pokerViews.Background">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerCloseBtn_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerCloseBtn_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerSelectBtn_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerSelectBtn_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.GuildWarGiftTxt">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerDownFace">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerTimeCount">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerTitle">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerUpFace">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.PokerUpFaceDouble">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_0">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_1">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_2">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_3">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_4">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_5">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_6">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.Number_7">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.ExpWord">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.NumberWord">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.CoinWord">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+	<link id="view.pokerViews.SelectWord">
+		<srcFla>F:\xymmo\assets_src\ui\poker.fla</srcFla>
+	</link>
+</xml>

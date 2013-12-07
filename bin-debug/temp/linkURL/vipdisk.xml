@@ -1,0 +1,17 @@
+<xml>
+	<link id="vipdisk.startbtn">
+		<srcFla>F:\xymmo\assets_src\ui\vipdisk.fla</srcFla>
+	</link>
+	<link id="vipdisk.onekeybtn">
+		<srcFla>F:\xymmo\assets_src\ui\vipdisk.fla</srcFla>
+	</link>
+	<link id="vipdisk.bigbg">
+		<srcFla>F:\xymmo\assets_src\ui\vipdisk.fla</srcFla>
+	</link>
+	<link id="vipdisk.btnbg">
+		<srcFla>F:\xymmo\assets_src\ui\vipdisk.fla</srcFla>
+	</link>
+	<link id="vipdisk.textpic">
+		<srcFla>F:\xymmo\assets_src\ui\vipdisk.fla</srcFla>
+	</link>
+</xml>

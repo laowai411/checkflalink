@@ -1,0 +1,56 @@
+<xml>
+	<link id="LevGift_GetBtn">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_35">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_40">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_45">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_50">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_55">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_60">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Bar_Progress">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Bar_Sep">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="levGiftNameBG">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Bar_Bg">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Box_Opened">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Box_Close">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_upBg">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_LevBG">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_itemBG">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Box_Geted_Flag">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+	<link id="LevGift_Box_Geted">
+		<srcFla>F:\xymmo\assets_src\ui\levgift.fla</srcFla>
+	</link>
+</xml>

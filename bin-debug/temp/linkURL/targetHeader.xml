@@ -1,0 +1,41 @@
+<xml>
+	<link id="view.targetViews.closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="TargetDownBg">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="TargetMonsterMC">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="TargetHeadBg">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="blood_1">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="blood_2">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="blood_0">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="blood_gray">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="TargetPlayerMC">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="target.closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="moreBtnLabel">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="searchBtnLabel">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+	<link id="teamBtnLabel">
+		<srcFla>F:\xymmo\assets_src\ui\targetHeader.fla</srcFla>
+	</link>
+</xml>

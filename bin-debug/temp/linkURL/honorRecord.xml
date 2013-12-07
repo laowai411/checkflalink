@@ -1,0 +1,38 @@
+<xml>
+	<link id="Honor.Rank_figure_Equip">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.Figure_Icon_List">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.warIcon_1">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.warIconWord_1">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.figureBg">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.MyRank">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.myHonorBg_open">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.myHonorBg_close">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.zanweikaiqi">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.action">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.warGodBg">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+	<link id="Honor.warGodStage">
+		<srcFla>F:\xymmo\assets_src\ui\honorRecord.fla</srcFla>
+	</link>
+</xml>

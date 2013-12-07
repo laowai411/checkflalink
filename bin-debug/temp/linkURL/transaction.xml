@@ -1,0 +1,14 @@
+<xml>
+	<link id="GoodsBox">
+		<srcFla>F:\xymmo\assets_src\ui\transaction.fla</srcFla>
+	</link>
+	<link id="view.skin.transaction.title">
+		<srcFla>F:\xymmo\assets_src\ui\transaction.fla</srcFla>
+	</link>
+	<link id="view.skin.transaction.nameBg">
+		<srcFla>F:\xymmo\assets_src\ui\transaction.fla</srcFla>
+	</link>
+	<link id="okBg">
+		<srcFla>F:\xymmo\assets_src\ui\transaction.fla</srcFla>
+	</link>
+</xml>

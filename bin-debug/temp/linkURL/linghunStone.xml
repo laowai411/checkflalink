@@ -1,0 +1,17 @@
+<xml>
+	<link id="linghunshi_closeBtn_up">
+		<srcFla>F:\xymmo\assets_src\ui\linghunStone.fla</srcFla>
+	</link>
+	<link id="linghunshi_closeBtn_over">
+		<srcFla>F:\xymmo\assets_src\ui\linghunStone.fla</srcFla>
+	</link>
+	<link id="linghunshi_giftBox">
+		<srcFla>F:\xymmo\assets_src\ui\linghunStone.fla</srcFla>
+	</link>
+	<link id="linghunshi_stone">
+		<srcFla>F:\xymmo\assets_src\ui\linghunStone.fla</srcFla>
+	</link>
+	<link id="linghunshi_reward">
+		<srcFla>F:\xymmo\assets_src\ui\linghunStone.fla</srcFla>
+	</link>
+</xml>

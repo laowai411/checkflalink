@@ -1,0 +1,38 @@
+<xml>
+	<link id="map.SelfSecenePoint">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="map.WorldMap">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="map.horseImage">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_27">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_28">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_29">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_30">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_31">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_32">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_33">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_34">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+	<link id="mapViews.Image_35">
+		<srcFla>F:\xymmo\assets_src\ui\map.fla</srcFla>
+	</link>
+</xml>

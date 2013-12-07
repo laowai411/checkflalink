@@ -1,0 +1,11 @@
+<xml>
+	<link id="totalcost_btn">
+		<srcFla>F:\xymmo\assets_src\ui\totalcost.fla</srcFla>
+	</link>
+	<link id="totalcost_itemSelected">
+		<srcFla>F:\xymmo\assets_src\ui\totalcost.fla</srcFla>
+	</link>
+	<link id="totalcost_bg">
+		<srcFla>F:\xymmo\assets_src\ui\totalcost.fla</srcFla>
+	</link>
+</xml>

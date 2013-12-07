@@ -1,0 +1,14 @@
+<xml>
+	<link id="strengthrandom.effectMc">
+		<srcFla>F:\xymmo\assets_src\ui\strengthRandom.fla</srcFla>
+	</link>
+	<link id="strengthrandom.BtnRandom">
+		<srcFla>F:\xymmo\assets_src\ui\strengthRandom.fla</srcFla>
+	</link>
+	<link id="strengthRandom.tipsText">
+		<srcFla>F:\xymmo\assets_src\ui\strengthRandom.fla</srcFla>
+	</link>
+	<link id="strengthrandom.luckdisk_arrow">
+		<srcFla>F:\xymmo\assets_src\ui\strengthRandom.fla</srcFla>
+	</link>
+</xml>

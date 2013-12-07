@@ -1,0 +1,20 @@
+<xml>
+	<link id="otherPetView.basePropBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherPetView.fla</srcFla>
+	</link>
+	<link id="petBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherPetView.fla</srcFla>
+	</link>
+	<link id="otherPetView.baseprop">
+		<srcFla>F:\xymmo\assets_src\ui\otherPetView.fla</srcFla>
+	</link>
+	<link id="otherPetView.skillBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherPetView.fla</srcFla>
+	</link>
+	<link id="otherPetView.fightBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherPetView.fla</srcFla>
+	</link>
+	<link id="otherPetView.fightprop">
+		<srcFla>F:\xymmo\assets_src\ui\otherPetView.fla</srcFla>
+	</link>
+</xml>

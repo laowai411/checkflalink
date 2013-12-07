@@ -1,0 +1,14 @@
+<xml>
+	<link id="view.magicWeapon.AdvanceArrow">
+		<srcFla>F:\xymmo\assets_src\ui\magicWeapon.fla</srcFla>
+	</link>
+	<link id="view.magicWeapon.ItemBorder">
+		<srcFla>F:\xymmo\assets_src\ui\magicWeapon.fla</srcFla>
+	</link>
+	<link id="view.magicWeapon.DeActiveIcon">
+		<srcFla>F:\xymmo\assets_src\ui\magicWeapon.fla</srcFla>
+	</link>
+	<link id="view.magicWeapon.DefaultIcon">
+		<srcFla>F:\xymmo\assets_src\ui\magicWeapon.fla</srcFla>
+	</link>
+</xml>

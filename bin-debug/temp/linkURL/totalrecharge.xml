@@ -1,0 +1,11 @@
+<xml>
+	<link id="totalrecharge_btn">
+		<srcFla>F:\xymmo\assets_src\ui\totalrecharge.fla</srcFla>
+	</link>
+	<link id="totalrecharge_bg">
+		<srcFla>F:\xymmo\assets_src\ui\totalrecharge.fla</srcFla>
+	</link>
+	<link id="totalrecharge_itemSelected">
+		<srcFla>F:\xymmo\assets_src\ui\totalrecharge.fla</srcFla>
+	</link>
+</xml>

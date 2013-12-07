@@ -1,0 +1,50 @@
+<xml>
+	<link id="growBarBg">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.expBar">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horseStrengthen_vip">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horseStrengthen_furnace">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.strengthMc">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.preInfo">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse_arrow">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horseStrengthen_fightBg">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.info.right.speed.label">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.info.type.fan">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse_defaultIcon">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.headBorder">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horseRideSign">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horseStrengthen_bindMoney">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="horse.levelIcon">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+	<link id="view.skin.noMateriaTip">
+		<srcFla>F:\xymmo\assets_src\ui\horse.fla</srcFla>
+	</link>
+</xml>

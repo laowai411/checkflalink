@@ -1,0 +1,16 @@
+<xml>
+	<!-- flash.exe的安装路径 -->
+	<flash>D:\Tools\FlashCS5.5(x86)\Adobe Flash CS5.5\Flash.exe</flash>
+	<!-- 要查找的fla的目录-->
+	<fla>F:\xymmo\assets_src\ui</fla>
+	<!-- 代码路径 -->
+	<codeSrc>E:\Xyyo\xymmo\src</codeSrc>
+	<!-- 多少毫秒执行一次fla链接搜索，包含了生成对应jsfl脚本时间 -->
+	<searchFlaDelay>10000</searchFlaDelay>
+	<!-- 每次搜索fla最多持续毫秒数 -->
+	<searchFlaMaxTime>3000</searchFlaMaxTime>
+	<!-- 多少毫秒执行一次代码搜索 -->
+	<searchDelay>30</searchDelay>
+	<!-- 每次搜索代码最多执行毫秒数 -->
+	<searchMaxTime>25</searchMaxTime>
+</xml>

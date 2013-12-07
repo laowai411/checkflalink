@@ -1,0 +1,95 @@
+<xml>
+	<link id="ImgVipBtn">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="UserHeadMC">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="Realm">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="State">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="whiteGoldVip">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="goldVip">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="becomeVip">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="diamondVip">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="diamondLevelVip">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_0">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_1">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_3">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_4">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_5">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_6">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_7">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_8">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.Number_9">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHeader.teamIcon">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number0_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number1_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number2_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number3_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number4_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number5_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number6_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number7_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number8_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="selfHead.Number9_2">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+	<link id="shortcut.ZhanDouLi">
+		<srcFla>F:\xymmo\assets_src\ui\selfHeader.fla</srcFla>
+	</link>
+</xml>

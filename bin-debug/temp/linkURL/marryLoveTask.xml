@@ -1,0 +1,17 @@
+<xml>
+	<link id="view.marryViews.loveTaskBg">
+		<srcFla>F:\xymmo\assets_src\ui\marryLoveTask.fla</srcFla>
+	</link>
+	<link id="view.marryViews.nameBg">
+		<srcFla>F:\xymmo\assets_src\ui\marryLoveTask.fla</srcFla>
+	</link>
+	<link id="view.marryViews.headBg">
+		<srcFla>F:\xymmo\assets_src\ui\marryLoveTask.fla</srcFla>
+	</link>
+	<link id="view.marryViews.star">
+		<srcFla>F:\xymmo\assets_src\ui\marryLoveTask.fla</srcFla>
+	</link>
+	<link id="view.marryViews.loveTaskFlower">
+		<srcFla>F:\xymmo\assets_src\ui\marryLoveTask.fla</srcFla>
+	</link>
+</xml>

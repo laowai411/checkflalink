@@ -1,0 +1,743 @@
+[16:40:44]10000 检测
+[16:40:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\zodiac.jsfl生成成功
+[16:40:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\zodiac.jsfl开始执行
+[16:40:44]10000 检测
+[16:40:44]flash.exe退出 0
+[16:40:44][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:40:54]10000 检测
+[16:40:54]上一个jsfl执行完成
+[16:40:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\worldboss_drop.jsfl生成成功
+[16:40:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\worldboss_drop.jsfl开始执行
+[16:40:54]10000 检测
+[16:40:54]flash.exe退出 0
+[16:40:54][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:41:4]10000 检测
+[16:41:4]上一个jsfl执行完成
+[16:41:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\worldboss.jsfl生成成功
+[16:41:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\worldboss.jsfl开始执行
+[16:41:4]10000 检测
+[16:41:4]flash.exe退出 0
+[16:41:4][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:41:14]10000 检测
+[16:41:14]上一个jsfl执行完成
+[16:41:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\welfare.jsfl生成成功
+[16:41:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\welfare.jsfl开始执行
+[16:41:14]10000 检测
+[16:41:14]flash.exe退出 0
+[16:41:14][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:41:24]10000 检测
+[16:41:24]上一个jsfl执行完成
+[16:41:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\welcome.jsfl生成成功
+[16:41:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\welcome.jsfl开始执行
+[16:41:24]10000 检测
+[16:41:24]flash.exe退出 0
+[16:41:24][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:41:34]10000 检测
+[16:41:34]上一个jsfl执行完成
+[16:41:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\weixinscan.jsfl生成成功
+[16:41:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\weixinscan.jsfl开始执行
+[16:41:34]10000 检测
+[16:41:34]flash.exe退出 0
+[16:41:34][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:41:44]10000 检测
+[16:41:44]上一个jsfl执行完成
+[16:41:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\warReport.jsfl生成成功
+[16:41:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\warReport.jsfl开始执行
+[16:41:44]10000 检测
+[16:41:44]flash.exe退出 0
+[16:41:44][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:41:54]10000 检测
+[16:41:54]上一个jsfl执行完成
+[16:41:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\warEnterRoom.jsfl生成成功
+[16:41:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\warEnterRoom.jsfl开始执行
+[16:41:54]10000 检测
+[16:41:54]flash.exe退出 0
+[16:41:54][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:42:4]10000 检测
+[16:42:4]上一个jsfl执行完成
+[16:42:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\wareHouse.jsfl生成成功
+[16:42:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\wareHouse.jsfl开始执行
+[16:42:4]10000 检测
+[16:42:4]flash.exe退出 0
+[16:42:4][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:42:14]10000 检测
+[16:42:14]上一个jsfl执行完成
+[16:42:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\wardrobe.jsfl生成成功
+[16:42:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\wardrobe.jsfl开始执行
+[16:42:14]10000 检测
+[16:42:14]flash.exe退出 0
+[16:42:14][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:42:24]10000 检测
+[16:42:24]上一个jsfl执行完成
+[16:42:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vipHookScene.jsfl生成成功
+[16:42:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vipHookScene.jsfl开始执行
+[16:42:24]10000 检测
+[16:42:25]flash.exe退出 0
+[16:42:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:42:34]10000 检测
+[16:42:34]上一个jsfl执行完成
+[16:42:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vipdisk.jsfl生成成功
+[16:42:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vipdisk.jsfl开始执行
+[16:42:34]10000 检测
+[16:42:34]flash.exe退出 0
+[16:42:34][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:42:44]10000 检测
+[16:42:44]上一个jsfl执行完成
+[16:42:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vip.jsfl生成成功
+[16:42:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vip.jsfl开始执行
+[16:42:44]10000 检测
+[16:42:44]flash.exe退出 0
+[16:42:44][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:42:54]10000 检测
+[16:42:54]上一个jsfl执行完成
+[16:42:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vehicleSpeedUp.jsfl生成成功
+[16:42:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vehicleSpeedUp.jsfl开始执行
+[16:42:54]10000 检测
+[16:42:54]flash.exe退出 0
+[16:42:54][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:43:4]10000 检测
+[16:43:4]上一个jsfl执行完成
+[16:43:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vehicleaward.jsfl生成成功
+[16:43:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vehicleaward.jsfl开始执行
+[16:43:4]10000 检测
+[16:43:4]flash.exe退出 0
+[16:43:4][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:43:14]10000 检测
+[16:43:14]上一个jsfl执行完成
+[16:43:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vehicle.jsfl生成成功
+[16:43:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\vehicle.jsfl开始执行
+[16:43:14]10000 检测
+[16:43:14]flash.exe退出 0
+[16:43:14][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:43:24]10000 检测
+[16:43:24]上一个jsfl执行完成
+[16:43:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\updateForecast.jsfl生成成功
+[16:43:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\updateForecast.jsfl开始执行
+[16:43:24]10000 检测
+[16:43:24]flash.exe退出 0
+[16:43:24][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:43:34]10000 检测
+[16:43:34]上一个jsfl执行完成
+[16:43:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\trigram.jsfl生成成功
+[16:43:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\trigram.jsfl开始执行
+[16:43:34]10000 检测
+[16:43:34]flash.exe退出 0
+[16:43:34][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:43:44]10000 检测
+[16:43:44]上一个jsfl执行完成
+[16:43:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\treasure.jsfl生成成功
+[16:43:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\treasure.jsfl开始执行
+[16:43:44]10000 检测
+[16:43:44]flash.exe退出 0
+[16:43:44][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:43:54]10000 检测
+[16:43:54]上一个jsfl执行完成
+[16:43:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\transaction.jsfl生成成功
+[16:43:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\transaction.jsfl开始执行
+[16:43:54]10000 检测
+[16:43:54]flash.exe退出 0
+[16:43:54][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:44:4]10000 检测
+[16:44:4]上一个jsfl执行完成
+[16:44:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\totalrecharge.jsfl生成成功
+[16:44:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\totalrecharge.jsfl开始执行
+[16:44:4]10000 检测
+[16:44:4]flash.exe退出 0
+[16:44:4][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:44:14]10000 检测
+[16:44:14]上一个jsfl执行完成
+[16:44:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\totalcost.jsfl生成成功
+[16:44:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\totalcost.jsfl开始执行
+[16:44:14]10000 检测
+[16:44:14]flash.exe退出 0
+[16:44:14][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:44:24]10000 检测
+[16:44:24]上一个jsfl执行完成
+[16:44:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\titleGetNewPanel.jsfl生成成功
+[16:44:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\titleGetNewPanel.jsfl开始执行
+[16:44:24]10000 检测
+[16:44:24]flash.exe退出 0
+[16:44:24][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:44:34]10000 检测
+[16:44:34]上一个jsfl执行完成
+[16:44:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\title.jsfl生成成功
+[16:44:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\title.jsfl开始执行
+[16:44:34]10000 检测
+[16:44:34]flash.exe退出 0
+[16:44:34][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:44:44]10000 检测
+[16:44:44]上一个jsfl执行完成
+[16:44:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\tenLives.jsfl生成成功
+[16:44:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\tenLives.jsfl开始执行
+[16:44:44]10000 检测
+[16:44:44]flash.exe退出 0
+[16:44:44][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:44:54]10000 检测
+[16:44:54]上一个jsfl执行完成
+[16:44:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\tempGift.jsfl生成成功
+[16:44:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\tempGift.jsfl开始执行
+[16:44:54]10000 检测
+[16:44:54]flash.exe退出 0
+[16:44:54][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:45:4]10000 检测
+[16:45:4]上一个jsfl执行完成
+[16:45:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\teamView.jsfl生成成功
+[16:45:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\teamView.jsfl开始执行
+[16:45:4]10000 检测
+[16:45:5]flash.exe退出 0
+[16:45:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:45:14]10000 检测
+[16:45:14]上一个jsfl执行完成
+[16:45:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\teamHead.jsfl生成成功
+[16:45:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\teamHead.jsfl开始执行
+[16:45:14]10000 检测
+[16:45:14]flash.exe退出 0
+[16:45:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:45:24]10000 检测
+[16:45:24]上一个jsfl执行完成
+[16:45:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\teamDuplicateEntry.jsfl生成成功
+[16:45:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\teamDuplicateEntry.jsfl开始执行
+[16:45:24]10000 检测
+[16:45:24]flash.exe退出 0
+[16:45:24][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:45:34]10000 检测
+[16:45:34]上一个jsfl执行完成
+[16:45:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\taskFollow.jsfl生成成功
+[16:45:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\taskFollow.jsfl开始执行
+[16:45:34]10000 检测
+[16:45:35]flash.exe退出 0
+[16:45:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:45:44]10000 检测
+[16:45:44]上一个jsfl执行完成
+[16:45:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\task.jsfl生成成功
+[16:45:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\task.jsfl开始执行
+[16:45:44]10000 检测
+[16:45:45]flash.exe退出 0
+[16:45:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:45:54]10000 检测
+[16:45:54]上一个jsfl执行完成
+[16:45:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\targetHeader.jsfl生成成功
+[16:45:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\targetHeader.jsfl开始执行
+[16:45:54]10000 检测
+[16:45:55]flash.exe退出 0
+[16:45:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:46:4]10000 检测
+[16:46:4]上一个jsfl执行完成
+[16:46:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\systemSetting.jsfl生成成功
+[16:46:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\systemSetting.jsfl开始执行
+[16:46:4]10000 检测
+[16:46:5]flash.exe退出 0
+[16:46:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:46:14]10000 检测
+[16:46:14]上一个jsfl执行完成
+[16:46:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\swim.jsfl生成成功
+[16:46:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\swim.jsfl开始执行
+[16:46:14]10000 检测
+[16:46:15]flash.exe退出 0
+[16:46:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:46:24]10000 检测
+[16:46:24]上一个jsfl执行完成
+[16:46:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\strengthRandom.jsfl生成成功
+[16:46:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\strengthRandom.jsfl开始执行
+[16:46:24]10000 检测
+[16:46:25]flash.exe退出 0
+[16:46:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:46:34]10000 检测
+[16:46:34]上一个jsfl执行完成
+[16:46:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\story.jsfl生成成功
+[16:46:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\story.jsfl开始执行
+[16:46:34]10000 检测
+[16:46:35]flash.exe退出 0
+[16:46:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:46:44]10000 检测
+[16:46:44]上一个jsfl执行完成
+[16:46:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\starlevreward.jsfl生成成功
+[16:46:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\starlevreward.jsfl开始执行
+[16:46:44]10000 检测
+[16:46:45]flash.exe退出 0
+[16:46:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:46:54]10000 检测
+[16:46:54]上一个jsfl执行完成
+[16:46:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\starlevrandom.jsfl生成成功
+[16:46:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\starlevrandom.jsfl开始执行
+[16:46:54]10000 检测
+[16:46:55]flash.exe退出 0
+[16:46:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:47:4]10000 检测
+[16:47:4]上一个jsfl执行完成
+[16:47:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sociology.jsfl生成成功
+[16:47:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sociology.jsfl开始执行
+[16:47:4]10000 检测
+[16:47:5]flash.exe退出 0
+[16:47:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:47:14]10000 检测
+[16:47:14]上一个jsfl执行完成
+[16:47:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sleepgirl.jsfl生成成功
+[16:47:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sleepgirl.jsfl开始执行
+[16:47:14]10000 检测
+[16:47:15]flash.exe退出 0
+[16:47:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:47:24]10000 检测
+[16:47:24]上一个jsfl执行完成
+[16:47:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\skins.jsfl生成成功
+[16:47:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\skins.jsfl开始执行
+[16:47:24]10000 检测
+[16:47:25]flash.exe退出 0
+[16:47:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:47:34]10000 检测
+[16:47:34]上一个jsfl执行完成
+[16:47:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\skillTip.jsfl生成成功
+[16:47:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\skillTip.jsfl开始执行
+[16:47:34]10000 检测
+[16:47:35]flash.exe退出 0
+[16:47:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:47:44]10000 检测
+[16:47:44]上一个jsfl执行完成
+[16:47:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\skill.jsfl生成成功
+[16:47:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\skill.jsfl开始执行
+[16:47:44]10000 检测
+[16:47:45]flash.exe退出 0
+[16:47:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:47:54]10000 检测
+[16:47:54]上一个jsfl执行完成
+[16:47:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sit.jsfl生成成功
+[16:47:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sit.jsfl开始执行
+[16:47:54]10000 检测
+[16:47:55]flash.exe退出 0
+[16:47:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:48:4]10000 检测
+[16:48:4]上一个jsfl执行完成
+[16:48:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\shortcutNumberPic.jsfl生成成功
+[16:48:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\shortcutNumberPic.jsfl开始执行
+[16:48:4]10000 检测
+[16:48:5]flash.exe退出 0
+[16:48:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:48:14]10000 检测
+[16:48:14]上一个jsfl执行完成
+[16:48:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\shortcut.jsfl生成成功
+[16:48:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\shortcut.jsfl开始执行
+[16:48:14]10000 检测
+[16:48:15]flash.exe退出 0
+[16:48:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:48:24]10000 检测
+[16:48:24]上一个jsfl执行完成
+[16:48:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sendFlower.jsfl生成成功
+[16:48:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sendFlower.jsfl开始执行
+[16:48:24]10000 检测
+[16:48:25]flash.exe退出 0
+[16:48:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:48:34]10000 检测
+[16:48:34]上一个jsfl执行完成
+[16:48:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\selfHeader.jsfl生成成功
+[16:48:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\selfHeader.jsfl开始执行
+[16:48:34]10000 检测
+[16:48:35]flash.exe退出 0
+[16:48:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:48:44]10000 检测
+[16:48:44]上一个jsfl执行完成
+[16:48:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sea.jsfl生成成功
+[16:48:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\sea.jsfl开始执行
+[16:48:44]10000 检测
+[16:48:45]flash.exe退出 0
+[16:48:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:48:54]10000 检测
+[16:48:54]上一个jsfl执行完成
+[16:48:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\scene.jsfl生成成功
+[16:48:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\scene.jsfl开始执行
+[16:48:54]10000 检测
+[16:48:55]flash.exe退出 0
+[16:48:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:49:4]10000 检测
+[16:49:4]上一个jsfl执行完成
+[16:49:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\repair.jsfl生成成功
+[16:49:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\repair.jsfl开始执行
+[16:49:4]10000 检测
+[16:49:5]flash.exe退出 0
+[16:49:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:49:14]10000 检测
+[16:49:14]上一个jsfl执行完成
+[16:49:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\registerAccount.jsfl生成成功
+[16:49:14]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\registerAccount.jsfl开始执行
+[16:49:14]10000 检测
+[16:49:15]flash.exe退出 0
+[16:49:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:49:24]10000 检测
+[16:49:24]上一个jsfl执行完成
+[16:49:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rechargerank.jsfl生成成功
+[16:49:24]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rechargerank.jsfl开始执行
+[16:49:24]10000 检测
+[16:49:25]flash.exe退出 0
+[16:49:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:49:34]10000 检测
+[16:49:34]上一个jsfl执行完成
+[16:49:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rechargeAlert.jsfl生成成功
+[16:49:34]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rechargeAlert.jsfl开始执行
+[16:49:34]10000 检测
+[16:49:35]flash.exe退出 0
+[16:49:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:49:44]10000 检测
+[16:49:44]上一个jsfl执行完成
+[16:49:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rankTip.jsfl生成成功
+[16:49:44]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rankTip.jsfl开始执行
+[16:49:44]10000 检测
+[16:49:45]flash.exe退出 0
+[16:49:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:49:54]10000 检测
+[16:49:54]上一个jsfl执行完成
+[16:49:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rank.jsfl生成成功
+[16:49:54]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\rank.jsfl开始执行
+[16:49:54]10000 检测
+[16:49:55]flash.exe退出 0
+[16:49:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:50:4]10000 检测
+[16:50:4]上一个jsfl执行完成
+[16:50:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\questionSurvey.jsfl生成成功
+[16:50:4]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\questionSurvey.jsfl开始执行
+[16:50:4]10000 检测
+[16:50:5]flash.exe退出 0
+[16:50:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:50:15]10000 检测
+[16:50:15]上一个jsfl执行完成
+[16:50:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\popFont.jsfl生成成功
+[16:50:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\popFont.jsfl开始执行
+[16:50:15]10000 检测
+[16:50:15]flash.exe退出 0
+[16:50:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:50:25]10000 检测
+[16:50:25]上一个jsfl执行完成
+[16:50:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\poker.jsfl生成成功
+[16:50:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\poker.jsfl开始执行
+[16:50:25]10000 检测
+[16:50:25]flash.exe退出 0
+[16:50:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:50:35]10000 检测
+[16:50:35]上一个jsfl执行完成
+[16:50:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\PK.jsfl生成成功
+[16:50:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\PK.jsfl开始执行
+[16:50:35]10000 检测
+[16:50:35]flash.exe退出 0
+[16:50:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:50:45]10000 检测
+[16:50:45]上一个jsfl执行完成
+[16:50:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\petPanel.jsfl生成成功
+[16:50:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\petPanel.jsfl开始执行
+[16:50:45]10000 检测
+[16:50:45]flash.exe退出 0
+[16:50:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:50:55]10000 检测
+[16:50:55]上一个jsfl执行完成
+[16:50:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\petMainUIPanel.jsfl生成成功
+[16:50:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\petMainUIPanel.jsfl开始执行
+[16:50:55]10000 检测
+[16:50:55]flash.exe退出 0
+[16:50:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:51:5]10000 检测
+[16:51:5]上一个jsfl执行完成
+[16:51:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\petDup.jsfl生成成功
+[16:51:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\petDup.jsfl开始执行
+[16:51:5]10000 检测
+[16:51:5]flash.exe退出 0
+[16:51:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:51:15]10000 检测
+[16:51:15]上一个jsfl执行完成
+[16:51:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\perdaycharge.jsfl生成成功
+[16:51:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\perdaycharge.jsfl开始执行
+[16:51:15]10000 检测
+[16:51:15]flash.exe退出 0
+[16:51:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:51:25]10000 检测
+[16:51:25]上一个jsfl执行完成
+[16:51:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\peentoPoker.jsfl生成成功
+[16:51:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\peentoPoker.jsfl开始执行
+[16:51:25]10000 检测
+[16:51:25]flash.exe退出 0
+[16:51:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:51:35]10000 检测
+[16:51:35]上一个jsfl执行完成
+[16:51:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\otherPetView.jsfl生成成功
+[16:51:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\otherPetView.jsfl开始执行
+[16:51:35]10000 检测
+[16:51:35]flash.exe退出 0
+[16:51:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:51:45]10000 检测
+[16:51:45]上一个jsfl执行完成
+[16:51:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\otherHorseView.jsfl生成成功
+[16:51:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\otherHorseView.jsfl开始执行
+[16:51:45]10000 检测
+[16:51:45]flash.exe退出 0
+[16:51:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:51:55]10000 检测
+[16:51:55]上一个jsfl执行完成
+[16:51:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\otherFashion.jsfl生成成功
+[16:51:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\otherFashion.jsfl开始执行
+[16:51:55]10000 检测
+[16:51:55]flash.exe退出 0
+[16:51:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:52:5]10000 检测
+[16:52:5]上一个jsfl执行完成
+[16:52:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\openserver_wish.jsfl生成成功
+[16:52:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\openserver_wish.jsfl开始执行
+[16:52:5]10000 检测
+[16:52:5]flash.exe退出 0
+[16:52:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:52:15]10000 检测
+[16:52:15]上一个jsfl执行完成
+[16:52:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\openserveractivity.jsfl生成成功
+[16:52:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\openserveractivity.jsfl开始执行
+[16:52:15]10000 检测
+[16:52:15]flash.exe退出 0
+[16:52:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:52:25]10000 检测
+[16:52:25]上一个jsfl执行完成
+[16:52:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\onlinegift.jsfl生成成功
+[16:52:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\onlinegift.jsfl开始执行
+[16:52:25]10000 检测
+[16:52:25]flash.exe退出 0
+[16:52:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:52:35]10000 检测
+[16:52:35]上一个jsfl执行完成
+[16:52:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\oncerecharge.jsfl生成成功
+[16:52:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\oncerecharge.jsfl开始执行
+[16:52:35]10000 检测
+[16:52:35]flash.exe退出 0
+[16:52:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:52:45]10000 检测
+[16:52:45]上一个jsfl执行完成
+[16:52:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\npcshop.jsfl生成成功
+[16:52:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\npcshop.jsfl开始执行
+[16:52:45]10000 检测
+[16:52:45]flash.exe退出 0
+[16:52:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:52:55]10000 检测
+[16:52:55]上一个jsfl执行完成
+[16:52:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\noviceInstructor.jsfl生成成功
+[16:52:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\noviceInstructor.jsfl开始执行
+[16:52:55]10000 检测
+[16:52:55]flash.exe退出 0
+[16:52:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:53:5]10000 检测
+[16:53:5]上一个jsfl执行完成
+[16:53:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\normalSea.jsfl生成成功
+[16:53:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\normalSea.jsfl开始执行
+[16:53:5]10000 检测
+[16:53:5]flash.exe退出 0
+[16:53:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:53:15]10000 检测
+[16:53:15]上一个jsfl执行完成
+[16:53:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\mysticalShop.jsfl生成成功
+[16:53:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\mysticalShop.jsfl开始执行
+[16:53:15]10000 检测
+[16:53:15]flash.exe退出 0
+[16:53:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:53:25]10000 检测
+[16:53:25]上一个jsfl执行完成
+[16:53:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\monstertoken.jsfl生成成功
+[16:53:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\monstertoken.jsfl开始执行
+[16:53:25]10000 检测
+[16:53:25]flash.exe退出 0
+[16:53:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:53:35]10000 检测
+[16:53:35]上一个jsfl执行完成
+[16:53:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\moneyTree.jsfl生成成功
+[16:53:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\moneyTree.jsfl开始执行
+[16:53:35]10000 检测
+[16:53:35]flash.exe退出 0
+[16:53:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:53:45]10000 检测
+[16:53:45]上一个jsfl执行完成
+[16:53:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\moneyHouse.jsfl生成成功
+[16:53:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\moneyHouse.jsfl开始执行
+[16:53:45]10000 检测
+[16:53:46]flash.exe退出 0
+[16:53:46][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:53:55]10000 检测
+[16:53:55]上一个jsfl执行完成
+[16:53:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\miniMap.jsfl生成成功
+[16:53:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\miniMap.jsfl开始执行
+[16:53:55]10000 检测
+[16:53:55]flash.exe退出 0
+[16:53:55][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:54:5]10000 检测
+[16:54:5]上一个jsfl执行完成
+[16:54:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\marryPropose.jsfl生成成功
+[16:54:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\marryPropose.jsfl开始执行
+[16:54:5]10000 检测
+[16:54:5]flash.exe退出 0
+[16:54:5][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:54:15]10000 检测
+[16:54:15]上一个jsfl执行完成
+[16:54:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\marryLoveTask.jsfl生成成功
+[16:54:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\marryLoveTask.jsfl开始执行
+[16:54:15]10000 检测
+[16:54:15]flash.exe退出 0
+[16:54:15][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:54:25]10000 检测
+[16:54:25]上一个jsfl执行完成
+[16:54:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\marry.jsfl生成成功
+[16:54:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\marry.jsfl开始执行
+[16:54:25]10000 检测
+[16:54:25]flash.exe退出 0
+[16:54:25][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:54:35]10000 检测
+[16:54:35]上一个jsfl执行完成
+[16:54:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\market.jsfl生成成功
+[16:54:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\market.jsfl开始执行
+[16:54:35]10000 检测
+[16:54:35]flash.exe退出 0
+[16:54:35][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:54:45]10000 检测
+[16:54:45]上一个jsfl执行完成
+[16:54:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\map.jsfl生成成功
+[16:54:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\map.jsfl开始执行
+[16:54:45]10000 检测
+[16:54:45]flash.exe退出 0
+[16:54:45][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:54:55]10000 检测
+[16:54:55]上一个jsfl执行完成
+[16:54:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\mall.jsfl生成成功
+[16:54:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\mall.jsfl开始执行
+[16:54:55]10000 检测
+[16:54:56]flash.exe退出 0
+[16:54:56][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:55:5]10000 检测
+[16:55:5]上一个jsfl执行完成
+[16:55:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\mail.jsfl生成成功
+[16:55:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\mail.jsfl开始执行
+[16:55:5]10000 检测
+[16:55:6]flash.exe退出 0
+[16:55:6][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:55:15]10000 检测
+[16:55:15]上一个jsfl执行完成
+[16:55:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\magicWeapon.jsfl生成成功
+[16:55:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\magicWeapon.jsfl开始执行
+[16:55:15]10000 检测
+[16:55:16]flash.exe退出 0
+[16:55:16][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:55:25]10000 检测
+[16:55:25]上一个jsfl执行完成
+[16:55:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\lutai.jsfl生成成功
+[16:55:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\lutai.jsfl开始执行
+[16:55:25]10000 检测
+[16:55:26]flash.exe退出 0
+[16:55:26][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:55:35]10000 检测
+[16:55:35]上一个jsfl执行完成
+[16:55:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\luckdisk.jsfl生成成功
+[16:55:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\luckdisk.jsfl开始执行
+[16:55:35]10000 检测
+[16:55:36]flash.exe退出 0
+[16:55:36][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:55:45]10000 检测
+[16:55:45]上一个jsfl执行完成
+[16:55:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskTransmit.jsfl生成成功
+[16:55:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskTransmit.jsfl开始执行
+[16:55:45]10000 检测
+[16:55:46]flash.exe退出 0
+[16:55:46][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:55:55]10000 检测
+[16:55:55]上一个jsfl执行完成
+[16:55:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskRoseSelect.jsfl生成成功
+[16:55:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskRoseSelect.jsfl开始执行
+[16:55:55]10000 检测
+[16:55:56]flash.exe退出 0
+[16:55:56][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:56:5]10000 检测
+[16:56:5]上一个jsfl执行完成
+[16:56:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskReceiveInvite.jsfl生成成功
+[16:56:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskReceiveInvite.jsfl开始执行
+[16:56:5]10000 检测
+[16:56:6]flash.exe退出 0
+[16:56:6][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:56:15]10000 检测
+[16:56:15]上一个jsfl执行完成
+[16:56:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskMiddleDlg.jsfl生成成功
+[16:56:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskMiddleDlg.jsfl开始执行
+[16:56:15]10000 检测
+[16:56:16]flash.exe退出 0
+[16:56:16][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:56:25]10000 检测
+[16:56:25]上一个jsfl执行完成
+[16:56:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskInvite.jsfl生成成功
+[16:56:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskInvite.jsfl开始执行
+[16:56:25]10000 检测
+[16:56:26]flash.exe退出 0
+[16:56:26][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:56:35]10000 检测
+[16:56:35]上一个jsfl执行完成
+[16:56:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskDateInfo.jsfl生成成功
+[16:56:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loveTaskDateInfo.jsfl开始执行
+[16:56:35]10000 检测
+[16:56:36]flash.exe退出 0
+[16:56:36][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:56:45]10000 检测
+[16:56:45]上一个jsfl执行完成
+[16:56:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\longdedian.jsfl生成成功
+[16:56:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\longdedian.jsfl开始执行
+[16:56:45]10000 检测
+[16:56:46]flash.exe退出 0
+[16:56:46][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:56:55]10000 检测
+[16:56:55]上一个jsfl执行完成
+[16:56:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loginWelfare.jsfl生成成功
+[16:56:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\loginWelfare.jsfl开始执行
+[16:56:55]10000 检测
+[16:56:56]flash.exe退出 0
+[16:56:56][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:57:5]10000 检测
+[16:57:5]上一个jsfl执行完成
+[16:57:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\linghunStone.jsfl生成成功
+[16:57:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\linghunStone.jsfl开始执行
+[16:57:5]10000 检测
+[16:57:6]flash.exe退出 0
+[16:57:6][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:57:15]10000 检测
+[16:57:15]上一个jsfl执行完成
+[16:57:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\levgift.jsfl生成成功
+[16:57:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\levgift.jsfl开始执行
+[16:57:15]10000 检测
+[16:57:16]flash.exe退出 0
+[16:57:16][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:57:25]10000 检测
+[16:57:25]上一个jsfl执行完成
+[16:57:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\killBossWordsEffect.jsfl生成成功
+[16:57:25]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\killBossWordsEffect.jsfl开始执行
+[16:57:25]10000 检测
+[16:57:26]flash.exe退出 0
+[16:57:26][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:57:35]10000 检测
+[16:57:35]上一个jsfl执行完成
+[16:57:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\horse.jsfl生成成功
+[16:57:35]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\horse.jsfl开始执行
+[16:57:35]10000 检测
+[16:57:36]flash.exe退出 0
+[16:57:36][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:57:45]10000 检测
+[16:57:45]上一个jsfl执行完成
+[16:57:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\horoscopeTask.jsfl生成成功
+[16:57:45]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\horoscopeTask.jsfl开始执行
+[16:57:45]10000 检测
+[16:57:46]flash.exe退出 0
+[16:57:46][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:57:55]10000 检测
+[16:57:55]上一个jsfl执行完成
+[16:57:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\honor_shop.jsfl生成成功
+[16:57:55]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\honor_shop.jsfl开始执行
+[16:57:55]10000 检测
+[16:57:56]flash.exe退出 0
+[16:57:56][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:58:5]10000 检测
+[16:58:5]上一个jsfl执行完成
+[16:58:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\honorRecord.jsfl生成成功
+[16:58:5]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\honorRecord.jsfl开始执行
+[16:58:5]10000 检测
+[16:58:6]flash.exe退出 0
+[16:58:6][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:58:15]10000 检测
+[16:58:15]上一个jsfl执行完成
+[16:58:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\Helps.jsfl生成成功
+[16:58:15]E:\Xyyo\checkflalink\bin-debug\temp\jsfl\Helps.jsfl开始执行
+[16:58:15]10000 检测
+[16:58:16]flash.exe退出 0
+[16:58:16][NativeProcessExitEvent type="exit" bubbles=false cancelable=false exitCode=0]
+[16:58:33]加载配置文件:E:\Xyyo\checkflalink\bin-debug\etc\config.xml
+[16:58:33]初始化完成

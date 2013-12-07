@@ -1,0 +1,38 @@
+<xml>
+	<link id="view.sendFlowerViews.closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.listBg">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.listOverBg">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.flowerBtn">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.flowerOverBtn">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.bigFlower">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.kissForThankTxt">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.giveGiftTxt">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.confirmTxt">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.chatTxt">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.flowerBg">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+	<link id="view.sendFlowerViews.smallFlower">
+		<srcFla>F:\xymmo\assets_src\ui\sendFlower.fla</srcFla>
+	</link>
+</xml>

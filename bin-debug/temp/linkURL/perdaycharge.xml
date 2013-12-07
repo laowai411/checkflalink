@@ -1,0 +1,20 @@
+<xml>
+	<link id="perdaycharge_price">
+		<srcFla>F:\xymmo\assets_src\ui\perdaycharge.fla</srcFla>
+	</link>
+	<link id="perdaycharge_price2">
+		<srcFla>F:\xymmo\assets_src\ui\perdaycharge.fla</srcFla>
+	</link>
+	<link id="perdaycharge_number">
+		<srcFla>F:\xymmo\assets_src\ui\perdaycharge.fla</srcFla>
+	</link>
+	<link id="perdaycharge_text">
+		<srcFla>F:\xymmo\assets_src\ui\perdaycharge.fla</srcFla>
+	</link>
+	<link id="perdaycharge_fastcharge_button_label">
+		<srcFla>F:\xymmo\assets_src\ui\perdaycharge.fla</srcFla>
+	</link>
+	<link id="perdaycharge_bkg">
+		<srcFla>F:\xymmo\assets_src\ui\perdaycharge.fla</srcFla>
+	</link>
+</xml>

@@ -1,0 +1,32 @@
+<xml>
+	<link id="treasure.ghostStoneBg">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="recentTreasureTitle">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="taoBaoBg">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="TreasureMyTitle">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="treasure_support">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="xiaoYao10">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="xiaoYao1">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="xiaoYao50">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="TreasureAllTitle">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+	<link id="treasure.fragmentTips">
+		<srcFla>F:\xymmo\assets_src\ui\treasure.fla</srcFla>
+	</link>
+</xml>

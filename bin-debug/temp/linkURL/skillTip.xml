@@ -1,0 +1,17 @@
+<xml>
+	<link id="view.skillTip.TypeMC">
+		<srcFla>F:\xymmo\assets_src\ui\skillTip.fla</srcFla>
+	</link>
+	<link id="view.skillTip.ProgressBar">
+		<srcFla>F:\xymmo\assets_src\ui\skillTip.fla</srcFla>
+	</link>
+	<link id="view.skillTip.ProgressBg">
+		<srcFla>F:\xymmo\assets_src\ui\skillTip.fla</srcFla>
+	</link>
+	<link id="view.skillTip.AttributeNameBg">
+		<srcFla>F:\xymmo\assets_src\ui\skillTip.fla</srcFla>
+	</link>
+	<link id="view.skillTip.AttributeValueBg">
+		<srcFla>F:\xymmo\assets_src\ui\skillTip.fla</srcFla>
+	</link>
+</xml>

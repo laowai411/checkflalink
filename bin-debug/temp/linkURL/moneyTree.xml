@@ -1,0 +1,29 @@
+<xml>
+	<link id="EnablefreeShakeIcon">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="EnableshakeOneIcon">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="EnableshakeTenIcon">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="freeShakeIcon">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="shakeOneIcon">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="shakeTenIcon">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="moneyTreeRecordTitle">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="moneyTreeArrow">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+	<link id="alreadyGet">
+		<srcFla>F:\xymmo\assets_src\ui\moneyTree.fla</srcFla>
+	</link>
+</xml>

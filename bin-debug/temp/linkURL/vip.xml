@@ -1,0 +1,119 @@
+<xml>
+	<link id="view.skin.vipViews.GetBtn">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.UpgradeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.WatchBtn">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.ExtendsBtn">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pause">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="vipLabel">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.WelfareBg">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.GiftTipBg">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.MallBg">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_0">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_0">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_1">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_1">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_2">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_2">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_3">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_3">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_4">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_4">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_5">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_5">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_6">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_6">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_7">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_7">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_8">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_8">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_9">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_9">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.Pic_VIP">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.PicGray_VIP">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.WelfareWatchTitle">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.IconClose">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.WelfareTitle">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.IconOpen">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="yellowDiamond">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="blueDiamond">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="view.skin.vipViews.WelfareNextTitle">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+	<link id="purpleDiamond">
+		<srcFla>F:\xymmo\assets_src\ui\vip.fla</srcFla>
+	</link>
+</xml>

@@ -1,0 +1,44 @@
+<xml>
+	<link id="view.warViews.landWaterViews.FullWord">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.RoomViewTitle">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.RoomViewBg">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.TaskTitle">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.RoomBtn_UpSkin">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.RoomBtn_DisabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.OverSkin">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.QuickTeamWord">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.ListIcon">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.horseImage">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.CompletePic">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.RoomBtn_GoodWord">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.CloseWord">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+	<link id="view.warViews.landWaterViews.BusyWord">
+		<srcFla>F:\xymmo\assets_src\ui\sea.fla</srcFla>
+	</link>
+</xml>

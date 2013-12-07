@@ -1,0 +1,11 @@
+<xml>
+	<link id="tempGiftView_bkg">
+		<srcFla>F:\xymmo\assets_src\ui\tempGift.fla</srcFla>
+	</link>
+	<link id="tempGiftView_button_over">
+		<srcFla>F:\xymmo\assets_src\ui\tempGift.fla</srcFla>
+	</link>
+	<link id="tempGiftView_button_up">
+		<srcFla>F:\xymmo\assets_src\ui\tempGift.fla</srcFla>
+	</link>
+</xml>

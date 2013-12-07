@@ -1,0 +1,110 @@
+<xml>
+	<link id="miniMap.BtnEffect">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMap">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Tanhao">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Wenhao">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Boss">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Npc">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnAchieve">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnAchieve2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnRechargeImage">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_PlayerAtt">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnTeam">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnTeam2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Team">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnAFM">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnAFM2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_MonsterPoint">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnRank">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnRank2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnShiled">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnShiled2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnDisSoundImage">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnDisSoundImage2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnSoundImage">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnSoundImage2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMarket">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMarket2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMin">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Flag">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Exit">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Player">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMax">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMail">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnMail2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnFriend">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.BtnFriend2">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+	<link id="miniMap.Image_Self">
+		<srcFla>F:\xymmo\assets_src\ui\miniMap.fla</srcFla>
+	</link>
+</xml>

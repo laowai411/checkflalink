@@ -1,0 +1,14 @@
+<xml>
+	<link id="worldboss_drop_bossTitle">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss_drop.fla</srcFla>
+	</link>
+	<link id="worldboss_drop_titleSign">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss_drop.fla</srcFla>
+	</link>
+	<link id="worldboss_drop_msgTitle">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss_drop.fla</srcFla>
+	</link>
+	<link id="worldboss_drop_jingYingTitle">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss_drop.fla</srcFla>
+	</link>
+</xml>

@@ -1,0 +1,11 @@
+<xml>
+	<link id="vehicle.BgImage">
+		<srcFla>F:\xymmo\assets_src\ui\vehicle.fla</srcFla>
+	</link>
+	<link id="vehicle.NameBg">
+		<srcFla>F:\xymmo\assets_src\ui\vehicle.fla</srcFla>
+	</link>
+	<link id="vehicle.SelectFrame">
+		<srcFla>F:\xymmo\assets_src\ui\vehicle.fla</srcFla>
+	</link>
+</xml>

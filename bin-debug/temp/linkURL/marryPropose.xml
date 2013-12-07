@@ -1,0 +1,35 @@
+<xml>
+	<link id="view.marryViews.closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeNameBg">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.bigFlower">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.refuseTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeBtnOver">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeBg">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeStar">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.agreeTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.xi">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+	<link id="view.marryViews.proposeTxt">
+		<srcFla>F:\xymmo\assets_src\ui\marryPropose.fla</srcFla>
+	</link>
+</xml>

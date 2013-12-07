@@ -1,0 +1,44 @@
+<xml>
+	<link id="worldboss_head_700">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_head_800">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_head_600">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_head_1100">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_head_1000">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_head_900">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_seeIcon">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_headBg1_1">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_headBg1">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_textBG">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_lock">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_headBg2">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_headBg2_1">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+	<link id="worldboss_bg">
+		<srcFla>F:\xymmo\assets_src\ui\worldboss.fla</srcFla>
+	</link>
+</xml>

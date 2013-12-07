@@ -1,0 +1,47 @@
+<xml>
+	<link id="luckdisk_btn">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_closeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_5">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_6">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_7">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_0">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_1">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_2">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_4">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_item_3">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_arrow">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_middlebg">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_rundiskbg">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_diskbg">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+	<link id="luckdisk_girl">
+		<srcFla>F:\xymmo\assets_src\ui\luckdisk.fla</srcFla>
+	</link>
+</xml>

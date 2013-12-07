@@ -1,0 +1,86 @@
+<xml>
+	<link id="view.zodiac.BetBtnLabel">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.NameBackground">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.RewardNotBingo">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.RewardSecond">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.WaitBackground">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.TotalRewardWord">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AwardBtnLabel_Second">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AwardBtnLabel_Third">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AwardBtnLabel_Special">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AwardBtnLabel_First">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.OpenBackground">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.CountDownWord">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.BetButton_upSkin">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.BetButton_disabledSkin">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.BetButton_overSkin">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.Prelude">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.OtherBetWord">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.RewardThird">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.RewardSpecial">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AwardBtn_up">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AwardBtn_over">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.Light">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.RewardNotBet">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.MyRewardWord">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.RewardFirst">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.AnimalCircleBg">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.BingoWord">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+	<link id="view.zodiac.WordFireBg">
+		<srcFla>F:\xymmo\assets_src\ui\zodiac.fla</srcFla>
+	</link>
+</xml>

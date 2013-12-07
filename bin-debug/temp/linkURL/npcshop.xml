@@ -1,0 +1,11 @@
+<xml>
+	<link id="title_exChangeNPC">
+		<srcFla>F:\xymmo\assets_src\ui\npcshop.fla</srcFla>
+	</link>
+	<link id="title_npcShop">
+		<srcFla>F:\xymmo\assets_src\ui\npcshop.fla</srcFla>
+	</link>
+	<link id="ExchangeArrow">
+		<srcFla>F:\xymmo\assets_src\ui\npcshop.fla</srcFla>
+	</link>
+</xml>

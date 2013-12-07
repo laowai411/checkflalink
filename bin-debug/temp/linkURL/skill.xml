@@ -1,0 +1,38 @@
+<xml>
+	<link id="view.skill.itemTitle">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.UpgradeBg">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.UpgradeBtn">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.line1">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.line2">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.line3">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.line4">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.line5">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.upgrade.LeftBtn">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.ItemBg">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.OnUseIcon">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+	<link id="view.skill.FightBg">
+		<srcFla>F:\xymmo\assets_src\ui\skill.fla</srcFla>
+	</link>
+</xml>

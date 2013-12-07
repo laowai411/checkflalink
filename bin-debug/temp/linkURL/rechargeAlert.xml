@@ -1,0 +1,14 @@
+<xml>
+	<link id="recharge_closeBtn_up">
+		<srcFla>F:\xymmo\assets_src\ui\rechargeAlert.fla</srcFla>
+	</link>
+	<link id="recharge_closeBtn_over">
+		<srcFla>F:\xymmo\assets_src\ui\rechargeAlert.fla</srcFla>
+	</link>
+	<link id="recharge_immediate">
+		<srcFla>F:\xymmo\assets_src\ui\rechargeAlert.fla</srcFla>
+	</link>
+	<link id="recharge_first_recharge">
+		<srcFla>F:\xymmo\assets_src\ui\rechargeAlert.fla</srcFla>
+	</link>
+</xml>

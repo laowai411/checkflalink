@@ -1,0 +1,20 @@
+<xml>
+	<link id="vehicleaward.BtnClose">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleaward.fla</srcFla>
+	</link>
+	<link id="vehicleaward.BtnSelected">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleaward.fla</srcFla>
+	</link>
+	<link id="vehicleaward.BgImage">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleaward.fla</srcFla>
+	</link>
+	<link id="vehicleaward.PokerDownFace">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleaward.fla</srcFla>
+	</link>
+	<link id="vehicleaward.PokerUpFace">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleaward.fla</srcFla>
+	</link>
+	<link id="vehicleaward.SelectWord">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleaward.fla</srcFla>
+	</link>
+</xml>

@@ -1,0 +1,17 @@
+<xml>
+	<link id="otherHorseView.basePropBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherHorseView.fla</srcFla>
+	</link>
+	<link id="speedLabel">
+		<srcFla>F:\xymmo\assets_src\ui\otherHorseView.fla</srcFla>
+	</link>
+	<link id="otherHorseView.fightBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherHorseView.fla</srcFla>
+	</link>
+	<link id="otherHorseView.horseBg">
+		<srcFla>F:\xymmo\assets_src\ui\otherHorseView.fla</srcFla>
+	</link>
+	<link id="otherHorseView.horseBg2">
+		<srcFla>F:\xymmo\assets_src\ui\otherHorseView.fla</srcFla>
+	</link>
+</xml>

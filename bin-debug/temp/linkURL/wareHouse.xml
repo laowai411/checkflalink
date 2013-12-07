@@ -1,0 +1,29 @@
+<xml>
+	<link id="view.skin.wareHouse.ware_bg">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="ShortcutSelectFrame">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.title">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.warHouse_expand_4">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.warHouse_expand_0">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.warHouse_expand_1">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.warHouse_expand_5">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.warHouse_expand_2">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+	<link id="view.skin.wareHouse.warHouse_expand_3">
+		<srcFla>F:\xymmo\assets_src\ui\wareHouse.fla</srcFla>
+	</link>
+</xml>

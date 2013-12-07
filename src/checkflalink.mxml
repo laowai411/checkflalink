@@ -1,0 +1,694 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:WindowedApplication xmlns:fx="http://ns.adobe.com/mxml/2009"
+					   xmlns:s="library://ns.adobe.com/flex/spark"
+					   xmlns:mx="library://ns.adobe.com/flex/mx"
+					   width="810" height="630"
+					   invoke="init()"
+					   >
+	<fx:Declarations>
+		<!-- Place non-visual elements (e.g., services, value objects) here -->
+	</fx:Declarations>
+	<fx:Script>
+		<![CDATA[
+			import events.CustomDispatcher;
+			import events.EventName;
+			import events.ParamEvent;
+			
+			import flash.utils.setTimeout;
+			
+			import mx.controls.Alert;
+			import mx.core.UIComponent;
+			import mx.events.CloseEvent;
+			
+			/**
+			 * 配置文件
+			 * */
+			private var appConfig:File;
+			
+			/**
+			 * link存储
+			 * */
+			private var linkList:Array;
+			
+			/**
+			 * 搜索器
+			 * */
+			private var searcher:Searcher;
+			
+			/**
+			 * 配置是否有改动,用于提示保存
+			 * */
+			private var configChange:Boolean;
+			
+			/**
+			 * 程序初始化
+			 * */
+			private function init():void
+			{
+				CustomDispatcher.getInstance().addEventListener(EventName.PRINT, onPrintHandler);
+				CustomDispatcher.getInstance().addEventListener(EventName.CHANGE_STATE, onUpdateStateHandler);
+				
+				if(NativeProcess.isSupported)
+				{
+					txtSignAllow.text = "支持本地进程访问";
+				}
+				else
+				{
+					txtSignAllow.text = "不支持本地进程访问";
+					txtSignAllow.setStyle("color",0xff0000);
+				}
+				Config.tempDir = File.applicationDirectory.resolvePath("./temp/").nativePath;
+				Config.jsflURL = Config.tempDir+"\\jsfl";
+				Config.linkURL = Config.tempDir+"\\linkURL";
+				Config.resultURL = Config.tempDir+"\\result.xml";
+				initAppConfig();
+			}
+			
+			/**
+			 * 初始化
+			 * .app配置
+			 * .初始化delay配置
+			 * .flash.exe路径配置
+			 * .代码目录配置
+			 * */
+			private function initAppConfig():void
+			{
+				appConfig = new File(File.applicationDirectory.resolvePath("./etc/config.xml").nativePath);
+				print("加载配置文件:"+File.applicationDirectory.resolvePath("./etc/config.xml").nativePath);
+				
+				var readStream:FileStream = new FileStream();
+				readStream.open(appConfig, FileMode.READ);
+				var configXML:XML = XML(readStream.readUTFBytes(readStream.bytesAvailable));
+				readStream.close();
+				
+				Config.flashURL = configXML.child("flash");
+				Config.flaURL = configXML.child("fla");
+				Config.codeSrcURL = configXML.child("codeSrc");
+				Config.searchFlaDelay = configXML.child("searchFlaDelay");
+				Config.searchFlaMaxTime = configXML.child("searchFlaMaxTime");
+				Config.searchDelay = configXML.child("searchDelay");
+				Config.searchMaxTime = configXML.child("searchMaxTime");
+				
+				txtFlash.text = Config.flashURL;
+				txtFla.text = Config.flaURL;
+				txtCode.text = Config.codeSrcURL;
+				txtJSFLDelay.text = Config.searchFlaDelay.toString();
+				txtJSFLMaxTime.text = Config.searchFlaMaxTime.toString();
+				txtCodeDelay.text = Config.searchDelay.toString();
+				txtCodeMaxTime.text = Config.searchMaxTime.toString();
+				
+				initURL();
+				
+				print("初始化完成");
+			}
+			
+			/**
+			 * 创建临时目录
+			 * */
+			private function createTempDir():void
+			{
+				var file:File = new File(Config.tempDir);
+				if(file && file.exists)
+				{
+					file.addEventListener(Event.COMPLETE, 
+						function(e:Event):void
+						{
+							file.createDirectory();
+							file.cancel();
+							file = new File(Config.jsflURL);
+							file.createDirectory();
+							file.cancel();
+							file = new File(Config.linkURL);
+							file.createDirectory();
+							file.cancel();
+						}
+					);
+					file.deleteDirectory(true);
+				}
+			}
+			
+			/**
+			 * link文件生成完成
+			 * */
+			private function onCreateLinkDataCompleteHandler(e:Event):void
+			{
+				loadLinkXML();
+				searcher = new Searcher();
+				searcher.addEventListener(Event.COMPLETE, onSearchCompleteHandler);
+				searcher.run(linkList);
+			}
+			
+			/**
+			 * 搜索代码完成
+			 * */
+			private function onSearchCompleteHandler(e:Event):void
+			{
+				printResult();
+			}
+			
+			/**
+			 * 载入link数据
+			 * */
+			private function loadLinkXML():void
+			{
+				linkList = [];
+				var	linkDir:File = new File(Config.linkURL);
+				
+				var readStream:FileStream = new FileStream();
+				var fileList:Array = linkDir.getDirectoryListing();
+				var fileCount:uint = fileList.length;
+				for(var j:uint=0; j<fileCount; j++)
+				{
+					var linkFile:File = fileList[j];
+					readStream.close();
+					readStream.open(linkFile, FileMode.READ);
+					var linkXml:XML = XML(readStream.readUTFBytes(readStream.bytesAvailable));
+					var childList:XMLList = linkXml.children();
+					for(var i:uint=0; i<childList.length(); i++)
+					{
+						linkList.push(linkXml.child(i));
+					}
+					print(linkFile.url+"  读取完成");
+				}
+			}
+			
+			/**
+			 * 生成结果文件
+			 * */
+			private function printResult():void
+			{
+				var useLinkMap:Dictionary = searcher.useLinkMap;
+				var file:File = new File(Config.resultURL);
+				var ws:FileStream = new FileStream();
+				ws.open(file, FileMode.WRITE);
+				var str:String = "<xml>\n";
+				for each(var link:* in linkList)
+				{
+					var linkStr:String = link.@id;
+					if(!useLinkMap[linkStr])
+					{
+						str += "\t<link id=\""+linkStr+"\">\n";
+						for each(var child:* in link)
+						{
+							var srcList:* = child.child("srcFla");
+							for each(var srcFla:* in srcList)
+							{
+								str += "\t\t<srcFla>"+srcFla.toString()+"</srcFla>\n";			
+							}
+						}
+						str += "\t</link>\n";
+					}
+				}
+				str += "</xml>";
+				ws.writeUTFBytes(str);
+				ws.close();
+				print(Config.resultURL+" 文件生成完成");
+				Alert.show(Config.resultURL+" 文件生成完成");
+				if(radioYes.selected)
+				{
+					file.openWithDefaultApplication();
+				}
+				
+				this.mouseChildren = true;
+				setRunning(false);
+			}
+			
+			/**
+			 * 打印log
+			 * */
+			private function onPrintHandler(e:ParamEvent):void
+			{
+				print(e.param.toString());
+			}
+			
+			/**
+			 * 进度显示
+			 * */
+			private function onUpdateStateHandler(e:ParamEvent):void
+			{
+				txtState.text = e.param.typeName+"  共有: "+e.param.total+": 已处理: "+(e.param.total-e.param.odd)+" 剩余: "+e.param.odd;
+			}
+			
+			/**
+			 * log文件
+			 * */
+			private var fileLog:File;
+			
+			/**
+			 * log输入流
+			 * */
+			private var logStream:FileStream;
+			
+			/**
+			 * 打印log
+			 * */
+			private function print(str:String):void
+			{
+				var curDate:Date = new Date();
+				str = "["+curDate.hours+":"+curDate.minutes+":"+curDate.seconds+"]"+str;
+				trace(str);
+				str += "\n"
+				if(!fileLog)
+				{
+					var logDirURL:String = File.applicationDirectory.resolvePath("./log/"+curDate.fullYear+"-"+curDate.month).nativePath;
+					if(!logDirURL)
+					{
+						fileLog = new File(logDirURL);
+						fileLog.createDirectory();
+						fileLog.cancel();
+						fileLog = null;
+					}
+					if(!fileLog)
+					{
+						fileLog = new File(logDirURL+"\\"+curDate.fullYear+"-"+curDate.month+"-"+curDate.date+".txt");
+					}
+					
+				}
+				if(!logStream)
+				{
+					logStream = new FileStream();
+				}
+				logStream.open(fileLog, FileMode.APPEND);
+				logStream.writeUTFBytes(str);
+				logStream.close();
+				txtLog.text = str;
+				//				txtLog.verticalScrollPosition = txtLog.maxVerticalScrollPosition;
+			}
+			
+			/**
+			 * 删除Log
+			 * */
+			private function clearLog():void
+			{
+				var logDirURL:String = File.applicationDirectory.resolvePath("./log").nativePath;
+				var logFile:File = new File(logDirURL);
+				if(logFile && logFile.exists)
+				{
+					logFile.addEventListener(IOErrorEvent.IO_ERROR,
+						function(e:IOErrorEvent):void
+						{
+							Alert.show("删除log失败!");
+							print("删除log失败!");
+						}
+					);
+					logFile.deleteDirectoryAsync(true);
+				}
+			}
+			
+			/**
+			 * Flash.exe路径
+			 * */
+			private var flashExe:File;
+			
+			/**
+			 * 代码Src目录路径
+			 * */
+			private var codeSrc:File;
+			
+			/**
+			 * fla目录路径
+			 * */
+			private var flaDir:File;
+			
+			private function initURL():void
+			{
+				flaDir = new File();
+				flaDir.addEventListener(Event.SELECT, onSelecteFlaDirHandler);
+				
+				flashExe = new File();
+				flashExe.addEventListener(Event.SELECT, onSelecteFlashHandler);
+				
+				codeSrc = new File();
+				codeSrc.addEventListener(Event.SELECT, onSelecteCodeHandler);
+			}
+			
+			/**
+			 * 选择了Fla目录路径
+			 * */
+			private function onSelecteFlaDirHandler(e:Event):void
+			{
+				Config.flaURL = flaDir.nativePath;
+				txtFla.text = Config.flaURL;
+				configChange = true;
+			}
+			
+			/**
+			 * 点击了选择Fla目录按钮
+			 * */
+			private function onClickSelecteFlaHandler():void
+			{
+				flaDir.browseForDirectory("选择ui包目录");
+			}
+			
+			/**
+			 * 点击了选择Flash.exe路径按钮
+			 * */
+			private function onClickSelecteFlashHandler():void
+			{
+				var docFilter:FileFilter = new FileFilter("Flash.exe", "*.exe");
+				flashExe.browse([docFilter]);
+			}
+			
+			/**
+			 * 选择Flash.exe路径
+			 * */
+			private function onSelecteFlashHandler(e:Event):void
+			{
+				Config.flashURL = flashExe.nativePath;
+				txtFlash.text = Config.flashURL;
+				configChange = true;
+			}
+			
+			/**
+			 * 点击了选择代码Src按钮
+			 * */
+			private function onClickSelecteCodeHandler():void
+			{
+				codeSrc.browseForDirectory("选择代码Src目录");
+			}
+			
+			/**
+			 * 选择了代码Src路径
+			 * */
+			private function onSelecteCodeHandler(e:Event):void
+			{
+				Config.codeSrcURL = codeSrc.nativePath;
+				txtCode.text = Config.codeSrcURL;
+				configChange = true;
+			}
+			
+			/**
+			 * 点击了更新配置按钮
+			 * */
+			private function onClickUpdateConfigHandler():void
+			{
+				var configXML:XML = <xml>
+										<flash>{Config.flashURL}</flash>
+										<fla>{Config.flaURL}</fla>
+										<codeSrc>{Config.codeSrcURL}</codeSrc>
+										<searchFlaDelay>{Config.searchFlaDelay}</searchFlaDelay>
+										<searchFlaMaxTime>{Config.searchFlaMaxTime}</searchFlaMaxTime>
+										<searchDelay>{Config.searchDelay}</searchDelay>
+										<searchMaxTime>{Config.searchMaxTime}</searchMaxTime>
+									</xml>
+				var readStream:FileStream = new FileStream();
+				readStream.open(appConfig, FileMode.WRITE);
+				readStream.writeUTFBytes(configXML.toString());
+				readStream.close();
+				
+				configChange = false;
+			}
+			
+			/**
+			 * 点击了开始按钮
+			 * */
+			private function onClickStartHandler():void
+			{
+				if(configChange)
+				{
+					Alert.show("配置有改动，是否更新？", "", Alert.YES | Alert.NO, null, 
+						function (e:CloseEvent):void
+						{
+							if(e.detail == Alert.YES)
+							{
+								onClickUpdateConfigHandler();
+								start();
+								print("更新了配置");
+							}
+							else
+							{
+								print("未保存配置直接运行");
+								start();
+							}
+						}
+					);
+				}
+				else
+				{
+					print("未保存配置直接运行");
+					start();
+				}
+			}
+			
+			/**
+			 * 开始运行程序，创建，执行脚本。。。
+			 * */
+			private function start():void
+			{
+				if(!checkStart())
+				{
+					return;
+				}
+				
+				if(radioClearYes.selected)
+				{
+					clearLog();
+				}
+				
+				this.mouseChildren = false;
+				setRunning(true);
+				createTempDir();
+				CreateLinkData.getInstance().addEventListener(Event.COMPLETE, onCreateLinkDataCompleteHandler);
+				CreateLinkData.getInstance().startFlash();
+			}
+			
+			/**
+			 * 检测配置是否正确
+			 * */
+			private function checkStart():Boolean
+			{
+				if(!checkSingleFile(Config.flashURL, 1))
+				{
+					print("Flash.exe路径不正确"+Config.flashURL);
+					Alert.show("Flash.exe路径不正确");
+					return false;
+				}
+				if(!checkSingleFile(Config.codeSrcURL, 2))
+				{
+					print("代码Src目录不正确"+Config.codeSrcURL);
+					Alert.show("代码Src目录不正确");
+					return false;
+				}
+				if(!checkSingleFile(Config.flaURL, 2))
+				{
+					print("Fla目录路径不正确"+Config.flaURL);
+					Alert.show("Fla目录路径不正确");
+					return false;
+				}
+				return true;
+			}
+			
+			/**
+			 * 检测某个文件是否存在
+			 * @param url String 文件或者目录路径
+			 * @param type int 0：不检测类型, 1：判断是否是文件，2：判断是否是目录
+			 * */
+			private function checkSingleFile(url:String, type:int=0):Boolean
+			{
+				var file:File = new File(url);
+				if(!file || !file.exists)
+				{
+					return false;
+				}
+				if(type == 1)
+				{
+					return !file.isDirectory;
+				}
+				else if(type == 2)
+				{
+					return file.isDirectory;
+				}
+				return true;
+			}
+			
+			/**
+			 * 单个代码文件搜索估计最长时间改变
+			 * */
+			private function onCodeMaxTimeChangeHandler():void
+			{
+				print("单个代码文件搜索估计最长时间改变"+Config.searchMaxTime+"==="+txtCodeMaxTime.text);
+				Config.searchMaxTime = parseInt(txtCodeMaxTime.text);
+				configChange = true;
+			}
+			
+			/**
+			 * 单个脚本运行最长估计时间改变
+			 * */
+			private function onJSFLMaxTimeChangeHandler():void			
+			{
+				print("单个脚本运行最长估计时间改变"+Config.searchFlaMaxTime+"==="+txtJSFLMaxTime.text);
+				Config.searchFlaMaxTime = parseInt(txtJSFLMaxTime.text);
+				configChange = true;
+			}
+			
+			/**
+			 * 脚本执行delay改变
+			 * */
+			private function onJSFLDelayChangeHandler():void
+			{
+				print("脚本执行delay改变"+Config.searchFlaDelay+"==="+txtJSFLDelay.text);
+				Config.searchFlaDelay = parseInt(txtJSFLDelay.text);
+				configChange = true;
+			}
+			
+			/**
+			 * 代码文件搜索delay改变
+			 * */
+			private function onCodeDelayChangeHandler():void
+			{
+				print("代码文件搜索delay改变"+Config.searchDelay+"==="+txtCodeDelay.text);
+				Config.searchDelay = parseInt(txtCodeDelay.text);
+				configChange = true;
+			}
+			
+			/**
+			 * Flash.exe路径改变
+			 * */
+			private function onFlashURLChangeHandler():void
+			{
+				print("Flash.exe路径改变"+Config.flashURL+"==="+txtFlash.text);
+				Config.flashURL = txtFlash.text;
+				configChange = true;
+			}
+			
+			/**
+			 * fla目录路径改变
+			 * */
+			private function onFlaURLChangeHandler():void
+			{
+				print("fla目录路径改变"+Config.flaURL+"==="+txtFla.text);
+				Config.flaURL = txtFla.text;
+				configChange = true;
+			}
+			
+			/**
+			 * 代码Src路径改变
+			 * */
+			private function onCodeURLChangeHandler():void
+			{
+				print("代码Src路径改变"+Config.codeSrcURL+"==="+txtCode.text);
+				Config.codeSrcURL = txtCode.text;
+				configChange = true;
+			}
+			
+			/**
+			 * 点击了查看log按钮
+			 * */
+			private function onClickWatchLogHandler():void
+			{
+				if(fileLog && fileLog.exists)
+				{
+					fileLog.openWithDefaultApplication();
+				}
+			}
+			
+			/**
+			 * 点击了readMe按钮
+			 * */
+			private function onClickReadMeHandler():void
+			{
+				var file:File = new File(File.applicationDirectory.nativePath+"\\readme.txt");
+				if(file && file.exists)
+				{
+					file.openWithDefaultApplication();
+				}
+			}
+			
+			/**
+			 * 提示运行中
+			 * */
+			private function setRunning(bool:Boolean):void
+			{
+				if(bool)
+				{
+					if(!contentMask)
+					{
+						contentMask = new UIComponent();
+						var runningMask:Sprite = new Sprite();
+						runningMask.mouseEnabled = false;
+						runningMask.mouseChildren = false;
+						runningMask.graphics.beginFill(0, 0.7);
+						runningMask.graphics.drawRect(0, 0, this.width, this.height);
+						runningMask.graphics.endFill();
+						contentMask.addChild(runningMask);
+						
+						var runningTxt:TextField = new TextField();
+						runningTxt.width = 400;
+						runningTxt.height = 100;
+						runningTxt.multiline = true;
+						runningTxt.wordWrap = true;
+						runningTxt.htmlText = "<font color='#33FF33' size='44'><b>运行中，请稍等...</b></font>";
+						runningTxt.x = (this.width-400)*0.5;
+						runningTxt.y = (this.height-100)*0.5;
+						contentMask.addChild(runningTxt);
+						
+						
+						addElement(contentMask);
+					}
+					contentMask.visible = true;
+				}
+				else
+				{
+					contentMask.visible = false;
+				}
+			}
+			/**
+			 * 标志程序运行不能点击
+			 * */
+			private var contentMask:UIComponent;
+		]]>
+	</fx:Script>
+	<mx:TextArea id="txtLog" x="37" y="481" width="734" height="33" textAlign="center"/>
+	<s:Label x="33" y="69" width="83" height="14" text="Flash.exe路径"/>
+	<s:TextInput id="txtFlash" x="131" y="65" width="520" change="onFlashURLChangeHandler()"/>
+	<s:Button id="btnFlash" x="659" y="65" label="选择Flash路径" click="onClickSelecteFlashHandler()"/>
+	<s:Label x="35" y="112" width="98" height="19" text="fla文件所在目录"/>
+	<s:TextInput id="txtFla" x="132" y="107" width="520" change="onFlaURLChangeHandler()"/>
+	<s:Button id="btnFla" x="660" y="108" label="选择fla目录" click="onClickSelecteFlaHandler()"/>
+	<s:Label x="43" y="153" text="代码src路径"/>
+	<s:TextInput id="txtCode" x="132" y="148" width="520" change="onCodeURLChangeHandler()"/>
+	<s:Button id="btnCode" x="660" y="149" label="选择代码Src目录" click="onClickSelecteCodeHandler()"/>
+	<s:Label x="55" y="196" height="16" text="jsfl脚本执行间隔(毫秒)" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:TextInput id="txtJSFLDelay" x="66" y="223" width="80" height="21"
+				 change="onJSFLDelayChangeHandler()" enabled="true" restrict="0-9"
+				 textAlign="right" textDecoration="none"/>
+	<s:Label x="199" y="195" width="139" height="16" text="代码文件搜索间隔(毫秒)" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:TextInput id="txtCodeDelay" x="214" y="223" width="62" height="20"
+				 change="onCodeDelayChangeHandler()" restrict="0-9" textAlign="right"
+				 textDecoration="none"/>
+	<s:Label id="txtSignAllow" x="286" y="297" width="209" height="22" text="不支持本地进程访问"
+			 textAlign="center" verticalAlign="middle"/>
+	<s:Label x="343" y="451" width="95" height="20" fontSize="16" text="处理状态" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:Button id="btnUpdate" x="268" y="344" label="更新配置" click="onClickUpdateConfigHandler()"/>
+	<s:Button id="btnStart" x="364" y="344" label="开始" click="onClickStartHandler()"
+			  focusColor="#70B7EE" fontSize="16"/>
+	<s:Label x="352" y="195" height="16" text="单个脚本执行估计最长时间(毫秒)" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:Label x="548" y="195" height="16" text="单个代码文件估计搜索最长时间(毫秒)" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:TextInput id="txtCodeMaxTime" x="563" y="223" change="onCodeMaxTimeChangeHandler()"
+				 restrict="0-9" textAlign="right" textDecoration="none"/>
+	<s:TextInput id="txtJSFLMaxTime" x="376" y="223" change="onJSFLMaxTimeChangeHandler()"
+				 restrict="0-9" textAlign="right" textDecoration="none"/>
+	<s:RadioButton id="radioYes" x="39" y="404" label="是" selected="true" groupName="autoOpen"/>
+	<s:RadioButton x="94" y="404" label="否" selected="false" groupName="autoOpen"/>
+	<s:Label x="29" y="385" width="114" height="22" text="完成后打开结果文件" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:Button id="btnWatch" x="458" y="343" label="查看运行日志" click="onClickWatchLogHandler()"/>
+	<s:Label x="32" y="340" width="100" height="16" text="清空上次运行日志" textAlign="center"
+			 verticalAlign="middle"/>
+	<s:RadioButton id="radioClearYes" x="47" y="359" label="是" selected="true" groupName="clearLog"/>
+	<s:RadioButton id="radioClearNo" x="91" y="359" label="否" selected="false" groupName="clearLog"/>
+	<s:Label id="txtState" x="208" y="404" width="541" height="21" text="请稍等..."/>
+	<mx:HRule x="6" y="265" width="780" height="4"/>
+	<mx:HRule x="9" y="437" width="781" height="6"/>
+	<s:Label x="37" y="522" width="734" height="39" color="#FB0202" fontSize="14"
+			 text="注意：可能会有嵌入字的提示框，共有3中解决方法，①不要离开，手动取消弹框。②在Flash.exe中  编辑→首选参数→文本→为缺少字体显示（取消勾选），运行结束之后别忘记重新勾选此项！③将缺少的嵌入字都装上"
+			 textAlign="left" verticalAlign="middle"/>
+	<s:Label x="267" y="24" width="283" height="22" fontSize="14" text="输出fla中没有在代码中引用的的链接"
+			 textAlign="center" verticalAlign="middle"/>
+	<s:Button id="btnReadMe" x="582" y="343" label="ReadMe" click="onClickReadMeHandler()"/>
+</s:WindowedApplication>

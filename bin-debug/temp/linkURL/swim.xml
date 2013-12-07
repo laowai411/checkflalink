@@ -1,0 +1,23 @@
+<xml>
+	<link id="SwimChannelCloseBtn">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+	<link id="SwimMouseMC">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+	<link id="swim.UICool">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+	<link id="SwimChannelBg">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+	<link id="SwimKissBg">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+	<link id="swim.ShrinkImage">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+	<link id="swim.StretchImage">
+		<srcFla>F:\xymmo\assets_src\ui\swim.fla</srcFla>
+	</link>
+</xml>

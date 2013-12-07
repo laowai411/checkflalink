@@ -1,0 +1,14 @@
+<xml>
+	<link id="view.marketViews.ListBigItemSkin_over">
+		<srcFla>F:\xymmo\assets_src\ui\market.fla</srcFla>
+	</link>
+	<link id="view.marketViews.ListBigItemSkin_up">
+		<srcFla>F:\xymmo\assets_src\ui\market.fla</srcFla>
+	</link>
+	<link id="view.marketViews.PanelBg">
+		<srcFla>F:\xymmo\assets_src\ui\market.fla</srcFla>
+	</link>
+	<link id="view.marketViews.middleGoodsBg">
+		<srcFla>F:\xymmo\assets_src\ui\market.fla</srcFla>
+	</link>
+</xml>

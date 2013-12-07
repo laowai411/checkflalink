@@ -1,0 +1,26 @@
+<xml>
+	<link id="lutai.coinsDupGuide_1">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="lutai.coinsDupGuide_2">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="lutai.coinsDupGuide_3">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="lutai.coinsDupGuide_4">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="YaoJinBiBg">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="LutaiStopButton_common">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="LutaiStopButton_over">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+	<link id="LutaiStopButton_disabled">
+		<srcFla>F:\xymmo\assets_src\ui\lutai.fla</srcFla>
+	</link>
+</xml>

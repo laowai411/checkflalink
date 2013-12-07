@@ -1,0 +1,263 @@
+<xml>
+	<link id="chatBG">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="chatBG3">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="NoClickEffectMc">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="Shadow">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="DefautAsset">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="selectGlow2">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="dropPack">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="TaskIcon4Skin">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="TaskIcon2Skin">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="ClickEffectMc">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="MouseSkin">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="selectGlow">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Add_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number0_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number1_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number2_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number3_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number4_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number5_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number6_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number7_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number8_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number9_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number0_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number1_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number2_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number3_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number4_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number5_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number6_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number7_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number8_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number9_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.BaoJi_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.BaoJi_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.BaoJi_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.FaKang_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.FaLiShangXian_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.FangYu_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.GongJi_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Cut_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.PanTao_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number0_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number1_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number2_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number3_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number4_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number5_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number6_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number7_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number8_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number9_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.BangTong_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Qian_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Tong_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.TongQian_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Add_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.HunLi_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.JianRen_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.JinRuZhanDou_R">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Jing_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Yan_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.JingJiJiFen_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.LiKaiZhanDou_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.LingKang_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Ming_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Sheng_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number0_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number1_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number2_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number3_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number4_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number5_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number6_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number7_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number8_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Number9_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.Add_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.PanTao_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.MianYiKongZhi_Y">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.MingZhong_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.ShanBi_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.ShanBi_B">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.ShengMingShangXian_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.WuKang_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.XiShouShangHai_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+	<link id="scene.ZhenQi_G">
+		<srcFla>F:\xymmo\assets_src\ui\scene.fla</srcFla>
+	</link>
+</xml>

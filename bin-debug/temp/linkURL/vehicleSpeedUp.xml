@@ -1,0 +1,17 @@
+<xml>
+	<link id="vehicleSpeedUp.CountDownDot">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleSpeedUp.fla</srcFla>
+	</link>
+	<link id="vehicleSpeedUp.RedProgressBar">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleSpeedUp.fla</srcFla>
+	</link>
+	<link id="vehicleSpeedUp.BlueProgressBar">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleSpeedUp.fla</srcFla>
+	</link>
+	<link id="vehicleSpeedUp.Arrow">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleSpeedUp.fla</srcFla>
+	</link>
+	<link id="vehicleSpeedUp.ProgressBarBg">
+		<srcFla>F:\xymmo\assets_src\ui\vehicleSpeedUp.fla</srcFla>
+	</link>
+</xml>

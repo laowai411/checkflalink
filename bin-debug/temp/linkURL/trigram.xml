@@ -1,0 +1,29 @@
+<xml>
+	<link id="view.trigramViews.suitTipBg">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.fuseArrow">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.bagFrame">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.embedBg">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.fuseBagTitle">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.fuseBg">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.suitBuffPic">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.attValueBg">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+	<link id="view.trigramViews.fightValueBg">
+		<srcFla>F:\xymmo\assets_src\ui\trigram.fla</srcFla>
+	</link>
+</xml>

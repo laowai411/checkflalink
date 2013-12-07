@@ -1,0 +1,50 @@
+<xml>
+	<link id="openactivity_getBtnText">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_recharge">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_titlebkg">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="opencctivity_bkg">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_textbkg">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_dec_text">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_rewardTitle">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_nameIcon">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_dec_text_2">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_dec_text_3">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_dec_text_4">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_dec_text_5">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_iconFrame">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_titlebkg_2">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_timelimitbuy">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+	<link id="openactivity_dec_line">
+		<srcFla>F:\xymmo\assets_src\ui\openserveractivity.fla</srcFla>
+	</link>
+</xml>

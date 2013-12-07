@@ -1,0 +1,95 @@
+<xml>
+	<link id="starlev_startBtn">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_stopBtn">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_autoBtn">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_1">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_10">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_11">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_12">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_13">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_14">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_15">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_16">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_2">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_3">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_4">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_5">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_6">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_7">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_8">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_icon_9">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_type_7">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_choosed_glow">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_lance">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_type_1">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_type_3">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_type_8">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_type_2">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_myinfo">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_glow_line">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_grid">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_choosed_bg">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+	<link id="starlev_allinfo">
+		<srcFla>F:\xymmo\assets_src\ui\starlevrandom.fla</srcFla>
+	</link>
+</xml>

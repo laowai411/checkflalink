@@ -1,0 +1,26 @@
+<xml>
+	<link id="moneyhouse.bg">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.btntxt.buy">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.btntxt.get">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.girl">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.itembg">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.title">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.item">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+	<link id="moneyhouse.hasget">
+		<srcFla>F:\xymmo\assets_src\ui\moneyHouse.fla</srcFla>
+	</link>
+</xml>
