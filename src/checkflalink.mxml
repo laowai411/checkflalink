@@ -13,9 +13,6 @@
 			import events.CustomDispatcher;
 			import events.EventName;
 			import events.ParamEvent;
-			
-			import flash.utils.setTimeout;
-			
 			import mx.controls.Alert;
 			import mx.core.UIComponent;
 			import mx.events.CloseEvent;
